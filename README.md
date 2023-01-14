@@ -24,8 +24,11 @@ It turned out that the wormhole had opened up leading to an unexplored and unide
 
 In the first few decades only the best scientists in the solar system toghether with navy officers have gone through the wormhole and set up a space station and explored and searched for planets and then after have colonized the most suitable planet.
 
-Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system.
+Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system and they have determined its distance to solar system is approximately 75 billion light years.
 
-Scientists named this new galaxy as Asha because they thought this new galaxy is the symbol of truth and existence.
+Scientists named this new system as Vita Nova for hoping to new life and its galaxy as Asha because they thought this new galaxy is the symbol of truth and existence.
 
-Humanity, having used up most of Earth's resources through centuries of explosive population growth, began colonizing the new star system Asha.
+Humanity, having used up most of Earth's resources through centuries of explosive population growth, began colonizing newly found star system Asha. The colonies began to flourish, and all was looking good.
+
+And then, after 100 years, the wormhole collapsed.
+
