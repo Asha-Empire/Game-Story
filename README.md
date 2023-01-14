@@ -47,3 +47,5 @@ When the humans realized that there was no possibility of reaching the main syst
 The center of the empire has been declared by Emperor Friessner as the planet Novus in the Viridis system. Years passed and the year is now 3013, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 4.
 
 There is a planet in the Vita Nova system with different kinds of animals and plants. It also has a special energy source similar to Amethyst stone. Its name is Saiantum.
+
+Imperial navy forces have taken control of all settled star systems, planets and stations, but man is going to new systems and they continue to settle on new planets. As long as it didn't pose a threat to the empire, it stopped controlling these new star systems and freed the humans.
