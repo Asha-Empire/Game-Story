@@ -12,7 +12,7 @@ Reaching the asteroid belt in a short time and mining, humanity was trying to go
 
 However, due to the long journey times, humans could not get out of Mars, the asteroid belt and space stations in these regions.
 
-With the developments in fusion engines in 2300 years, the speed of spaceships reached from 11000km/sec to 33000km/sec with the Pusion engine (Fusion Plus).
+With the developments in fusion engines in 2300 years, with new engines named the Pusion Engine (Fusion Plus) the speed of spaceships reached from 11000km/sec to 33000km/sec.
 
 Around the year 2550, mankind dispersed to most of the solar system, established different space stations and conquered the solar system with the technologies they reached.
 
