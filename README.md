@@ -44,6 +44,6 @@ Advances in Stargate technology have given hope of reaching the solar system aga
 
 When the humans realized that there was no possibility of reaching the main system, chaos ensued and war broke out between different planets and space stations. This war lasted for a very long time and in the end, Walter Friessner, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the Asha Empire. Although Emperor Friessner initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor.
 
-The center of the empire has been declared by Emperor Friessner as the planet Novus in the Viridis system.
+The center of the empire has been declared by Emperor Friessner as the planet Novus in the Viridis system. Years passed and the year is now 3013, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 4.
 
 There is a planet in the Vita Nova system with different kinds of animals and plants. It also has a special energy source similar to Amethyst stone. Its name is Saiantum.
