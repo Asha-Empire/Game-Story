@@ -39,3 +39,5 @@ In 2768 Warp Engine invented. The warp engine depending on the size of the space
 The Warp Engine allowed the colonies to move out of the Vita Nova system into other systems of the galaxy. This situation posed a problem. They can travel much faster than the speed of light, but when they wanted to communicate with each other, they were able to communicate at a maximum speed of light. This required scientists to focus on this issue.
 
 Two years later, in 2770, the Quantum Particle Network (QPN) was invented and communication between star systems was easy. Scientists tried to send a message to the solar system, but it didn't help, they probably thought that this technology had not been invented in the solar system yet.
+
+Advances in Stargate technology have given hope of reaching the solar system again. But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
