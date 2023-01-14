@@ -16,4 +16,6 @@ The earth-centered government, made up of people spread over the solar system, w
 
 In 2576, a wormhole appeared near the dwarf planet Orcus. Because there is no settlement on the dwarf planet Orcus, they initially thought the resulting wormhole was a reflection of the planet's moon Vanth, but when a explorer drone revealed the truth, the USSS navy has been protected the wormhole and wouldn't let anyone get close.
 
-It turned out that the wormhole opened up to the unidentified star system after the scientists made their initial research and several drones had passed and returned through the wormhole.
+It turned out that the wormhole had opened up to the unidentified star system after the scientists did their initial research and several drones had successfully passed and returned through the wormhole.
+
+In the first few decades only the best scientists in the solar system toghether with navy officers have gone through the wormhole and set up a space station and explored and searched for planets and then after have colonized the most suitable planet.
