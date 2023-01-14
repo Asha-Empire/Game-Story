@@ -6,7 +6,7 @@ With the developments in the Fusion reactors in 2200, their size was reduced, al
 
 Having taken over the asteroid belt in a short time, humanity sought to go beyond. They set up space stations in different locations.
 
-However, due to the long journey times, they could not get out of Mars, the asteroid belt and the space stations in these areas.
+However, due to the long journey times, humans could not get out of Mars, the asteroid belt and space stations in these regions.
 
 With the developments in fusion engines in 2300 years, the speed of spaceships reached from 11000km/sec to 33000km/sec with the Pusion engine (Fusion Plus).
 
