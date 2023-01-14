@@ -2,7 +2,7 @@
 
 ![ASHA EMPIRE FLAG](https://github.com/Asha-Empire/Game-Story/blob/main/images/asha-empire.jpg)
 
-## Path to Asha Empire
+## Path to the Asha Empire
 
 Around 2100, all fusion reactors in the world replaced with fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers.
 
@@ -18,7 +18,7 @@ Around the year 2550, mankind dispersed to most of the solar system, established
 
 The earth-centered government, made up of people spread over the solar system, was called the Solar System United States (USSS).
 
-But everything changed In 2576 with the discovery of a natural wormhole that appeared near the dwarf planet Orcus. Because of no settlement on the dwarf planet Orcus, they initially thought the resulting wormhole was a reflection of the planet's moon Vanth, but when a explorer drone revealed the truth, the USSS navy has been protected the wormhole and wouldn't let anyone get close.
+But everything changed In 2576 with the discovery of a natural wormhole that appeared near the dwarf planet Orcus. Because of no settlement on the dwarf planet Orcus, they initially thought the determined wormhole was a reflection of the planet's moon Vanth, but when a explorer drones revealed the truths, the USSS navy has been protected the wormhole and wouldn't let anyone get close.
 
 It turned out that the wormhole had opened up leading to an unexplored and unidentified star system after the scientists did their initial research and several drones had successfully passed and returned through the wormhole.
 
