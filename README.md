@@ -4,7 +4,7 @@ Around 2100, all fusion reactors in the world replaced with fission reactors. On
 
 With the developments in the Fusion reactors in 2200, their size was reduced, allowing the fusiun engines to be easily integrated into different sized spaceships. This development has made space travel easier and faster.
 
-Having taken over the asteroid belt in a short time, humanity sought to go beyond. They set up space stations in different locations.
+Reaching the asteroid belt in a short time and mining, humanity was trying to go beyond. That's why they set up space stations in different places.
 
 However, due to the long journey times, humans could not get out of Mars, the asteroid belt and space stations in these regions.
 
@@ -22,4 +22,4 @@ In the first few decades only the best scientists in the solar system toghether 
 
 Scientists have determined that the reason why this new system and the galaxy in which it is located has not been identified before, because it is not in the universe that can be seen from the solar system.
 
-Scientists named this new galaxy Asha because they thought it was the symbol of this new galaxy of truth and existence.
+Scientists named this new galaxy as Asha because they thought it was the symbol of this new galaxy of truth and existence.
