@@ -43,3 +43,7 @@ Two years later, in 2770, the Quantum Particle Network (QPN) was invented and co
 Advances in Stargate technology have given hope of reaching the solar system again. But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
 
 When the humans realized that there was no possibility of reaching the main system, chaos ensued and war broke out between different planets and space stations. This war lasted for a very long time and in the end, Walter Friessner, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the Asha Empire. Although Emperor Friessner initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor.
+
+The center of the empire has been declared by Emperor Friessner as the planet Novus in the Viridis system.
+
+There is a planet in the Vita Nova system with different kinds of animals and plants. It also has a special energy source similar to Amethyst stone. Its name is Saiantum.
