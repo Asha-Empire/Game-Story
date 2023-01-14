@@ -1,5 +1,7 @@
 # Game Story
 
+![ASHA EMPIRE FLAG](https://raw.githubusercontent.com/Asha-Empire/Game-Story/main/images/asha-empire.jpg?token=GHSAT0AAAAAAB3UXVNZWCFZ2KPWMOTDNQIYY6C47YA)
+
 ## Path to Asha Empire
 
 Around 2100, all fusion reactors in the world replaced with fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers.
