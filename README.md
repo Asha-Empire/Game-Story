@@ -35,3 +35,5 @@ And then, after 100 years at 2692, the wormhole collapsed, how it was formed.
 Scientists in all colonies began to work together on very different researches, developments and new inventions in order to communicate and even reach the solar system. But the distance was too long, making this developments almost impossible.
 
 At 2768 Warp Engine invented. The warp engine depending on the size of the spaceships allows spaceships to accelerate up to 1500 times the speed of light. The only problem with the warp engine is that it consumes a lot of energy. But the Warp Engine wasn't enough to reach Earth because it doesn't seem possible to get enough energy sources for that to happen.
+
+The Warp Engine allowed the colonies to move out of the Vita Nova system and into other systems of the galaxy. This situation posed a problem. They can travel much faster than the speed of light, but when they wanted to communicate with each other, they were able to communicate at a maximum speed of light years speed. This required scientists to focus on this issue.
