@@ -22,4 +22,4 @@ In the first few decades only the best scientists in the solar system toghether 
 
 Scientists have determined that the reason why this new system and the galaxy in which it is located has not been identified before, because it is not in the universe that can be seen from the solar system.
 
-Scientists named this new unidentified star galaxy as Asha, because they think truth and existance is symbol of this new galaxy.
+Scientists named this new galaxy Asha because they thought it was the symbol of this new galaxy of truth and existence.
