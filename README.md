@@ -30,5 +30,8 @@ Scientists named this new system as Vita Nova for hoping to new life and its gal
 
 Humanity, having used up most of Earth's resources through centuries of explosive population growth, began colonizing newly found star system Asha. The colonies began to flourish, and all was looking good.
 
-And then, after 100 years, the wormhole collapsed.
+And then, after 100 years at 2692, the wormhole collapsed.
 
+Scientists in all colonies began to work together on very different researches, developments and new inventions in order to communicate and even reach the solar system. But the distance was too long, making this developments almost impossible.
+
+At 2768 Warp Engine invented. The warp engine depending on the size of the spaceships allows spaceships to accelerate up to 1500 times the speed of light. The only problem with the warp engine is that it consumes a lot of energy. But the Warp Engine wasn't enough to reach Earth because it doesn't seem possible to get enough energy sources for that to happen.
