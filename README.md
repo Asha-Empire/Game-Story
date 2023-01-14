@@ -24,6 +24,6 @@ It turned out that the wormhole had opened up to the unidentified star system af
 
 In the first few decades only the best scientists in the solar system toghether with navy officers have gone through the wormhole and set up a space station and explored and searched for planets and then after have colonized the most suitable planet.
 
-Scientists have determined that the reason why this new system and the galaxy in which it is located has not been identified before, because it is not in the universe that can be seen from the solar system.
+Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system.
 
-Scientists named this new galaxy as Asha because they thought it was the symbol of this new galaxy of truth and existence.
+Scientists named this new galaxy as Asha because they thought this new galaxy is the symbol of truth and existence.
