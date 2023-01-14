@@ -1,4 +1,4 @@
-# Game-Story
+# Game Base Story
 
 Around 2100, fusion reactors replaced fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers.
 
