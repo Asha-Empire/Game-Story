@@ -19,3 +19,7 @@ In 2576, a wormhole appeared near the dwarf planet Orcus. Because there is no se
 It turned out that the wormhole had opened up to the unidentified star system after the scientists did their initial research and several drones had successfully passed and returned through the wormhole.
 
 In the first few decades only the best scientists in the solar system toghether with navy officers have gone through the wormhole and set up a space station and explored and searched for planets and then after have colonized the most suitable planet.
+
+Scientists have determined that the reason why this new system and the galaxy in which it is located has not been identified before, because it is not in the universe that can be seen from the solar system.
+
+Scientists named this new unidentified star galaxy as Asha, because they think truth and existance is symbol of this new galaxy.
