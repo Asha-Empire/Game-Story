@@ -1,6 +1,6 @@
 # Game Story
 
-![ASHA EMPIRE FLAG](https://raw.githubusercontent.com/Asha-Empire/Game-Story/main/images/asha-empire.jpg?token=GHSAT0AAAAAAB3UXVNYXMYL2DLGBKVMBQ4MY6C6ZLA)
+![ASHA EMPIRE FLAG](https://github.com/Asha-Empire/Game-Story/blob/main/images/asha-empire.jpg)
 
 ## Path to Asha Empire
 
