@@ -1,5 +1,7 @@
 # Game-Story
 
+Around 2100, fusion reactors replaced fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers.
+
 With the developments in the Fusion reactors in 2200, their size was reduced, allowing the fusiun engines to be easily integrated into different sized spaceships. This development has made space travel easier and faster.
 
 Having taken over the asteroid belt in a short time, humanity sought to go beyond. They set up space stations in different locations.
