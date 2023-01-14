@@ -1,6 +1,6 @@
 # Game Story
 
-## Asha Empire
+## Path to Asha Empire
 
 Around 2100, all fusion reactors in the world replaced with fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers.
 
