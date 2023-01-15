@@ -26,7 +26,7 @@ It turned out that the wormhole had opened up leading to an unexplored and unide
 
 In the first few decades only the best scientists in the solar system toghether with navy officers have gone through the wormhole and set up a space station and explored and searched for planets and then after have colonized the most suitable planet.
 
-Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system and they have determined its distance to solar system is approximately 75 billion light years.
+Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system and they have determined its distance to solar system is approximately 75 billion light years. They found a habitable planet with different kinds of animals and plants. It also has a special energy source similar to Amethyst stone. They named this new planet as Saiantum.
 
 Scientists named this new system as Vita Nova for hoping to new life and its galaxy as Asha because they thought this new galaxy is the symbol of truth and existence.
 
@@ -47,7 +47,5 @@ Advances in Stargate technology have given hope of reaching the solar system aga
 When the humans realized that there was no possibility of reaching the main system, chaos ensued and war broke out between different planets and space stations. This war lasted for a very long time and in the end, Walter Friessner, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the Asha Empire. Although Emperor Friessner initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor.
 
 The center of the empire has been declared by Emperor Friessner as the planet Novus in the Viridis system. Years passed and the year is now 3013, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 4.
-
-There is a planet in the Vita Nova system with different kinds of animals and plants. It also has a special energy source similar to Amethyst stone. Its name is Saiantum.
 
 Imperial navy forces have taken control of all settled star systems, planets and stations, but man is going to new systems and they continue to settle on new planets. As long as it didn't pose a threat to the empire, it stopped controlling these new star systems and freed the humans.
