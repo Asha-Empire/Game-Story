@@ -4,6 +4,8 @@
 
 ## Path to the Asha Empire
 
+Humanity established its first colony on Mars in 2036. For the first time outside of Earth, they truly settled another planet.
+
 Around 2100, all fusion reactors in the world replaced with fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers.
 
 With the developments in the Fusion reactors in 2200, their size was reduced, allowing the fusiun engines to be easily integrated into different sized spaceships. This development has made space travel easier and faster.
