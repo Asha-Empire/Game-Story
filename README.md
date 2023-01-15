@@ -14,7 +14,7 @@ Around 2100, all fusion reactors in the world replaced with fission reactors. On
 
 #### 2200...
 
-With the developments in the Fusion reactors in 2200, their size was reduced, allowing the fusiun engines to be easily integrated into different sized spaceships. This development has made space travel easier and faster.
+With the developments in the Fusion reactors in 2200, their size was reduced, allowing the **Fusiun Engines** to be easily integrated into different sized spaceships. This development has made space travel easier and faster.
 
 Reaching the asteroid belt in a short time and mining, humanity was trying to go beyond. That's why they set up space stations in different places.
 
@@ -22,7 +22,7 @@ However, due to the long journey times, humans could not get out of Mars, the as
 
 #### 2300...
 
-With the developments in fusion engines in 2300 years, with new engines named the Pusion Engine (Fusion Plus) the speed of spaceships reached from 11000km/sec to 33000km/sec.
+With the developments in fusion engines in 2300 years, with new engines named the **Pusion Engine (Fusion Plus)** the speed of spaceships reached from 11000km/sec to 33000km/sec.
 
 #### 2550...
 
@@ -38,11 +38,11 @@ It turned out that the wormhole had opened up leading to an unexplored and unide
 
 In the first few decades only the best scientists in the solar system toghether with navy officers have gone through the wormhole and set up a space station and explored and searched for planets and then after have colonized the most suitable planet.
 
-Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system and they have determined its distance to solar system is approximately 75 billion light years. They found a habitable planet with different kinds of animals and plants. They found a new kind of energy source stone on this planet which they called Saian that is similar to Amethyst stone. They named this new planet as Saiantum.
+Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system and they have determined its distance to solar system is approximately 75 billion light years. They found a habitable planet with different kinds of animals and plants. They found a new kind of energy source stone on this planet which they called **Saian** that is similar to Amethyst stone. They named this new planet as **Saiantum**.
 
-Scientists named this new system as Vita Nova for hoping to new life and its galaxy as Asha because they thought this new galaxy is the symbol of truth and existence.
+Scientists named this new system as **Vita Nova** for hoping to new life and its galaxy as **Asha** because they thought this new galaxy is the symbol of truth and existence.
 
-Humanity, having used up most of Earth's resources through centuries of explosive population growth, began colonizing newly found star system Asha. The colonies began to flourish, and all was looking good.
+Humanity, having used up most of Earth's resources through centuries of explosive population growth, began colonizing newly found star system **Vita Nova**. The colonies began to flourish, and all was looking good.
 
 #### 2692...
 
@@ -52,22 +52,22 @@ Scientists in all colonies began to work together on very different researches, 
 
 #### 2768...
 
-In 2768 Warp Engine invented. The warp engine depending on the size of the spaceships allows spaceships to accelerate up to 1500 times the speed of light. The only problem with the warp engine is that it consumes a lot of energy. But the Warp Engine wasn't enough to reach Earth because it doesn't seem possible to get enough energy sources for that to happen.
+In 2768 **Warp Engine** invented. The warp engine depending on the size of the spaceships allows spaceships to accelerate up to 1500 times the speed of light. The only problem with the warp engine is that it consumes a lot of energy. But the Warp Engine wasn't enough to reach Earth because it doesn't seem possible to get enough energy sources for that to happen.
 
-The Warp Engine allowed the colonies to move out of the Vita Nova system into other systems of the galaxy. This situation posed a problem. They can travel much faster than the speed of light, but when they wanted to communicate with each other, they were able to communicate at a maximum speed of light. This required scientists to focus on this issue.
+The Warp Engine allowed the colonies to move out of the **Vita Nova** system into other systems of the galaxy. This situation posed a problem. They can travel much faster than the speed of light, but when they wanted to communicate with each other, they were able to communicate at a maximum speed of light. This required scientists to focus on this issue.
 
 #### 2770...
 
-Two years later, in 2770, the Quantum Particle Network (QPN) was invented and communication between star systems was easy. Scientists tried to send a message to the solar system, but it didn't help, they probably thought that this technology had not been invented in the solar system yet.
+Two years later, in 2770, the **Quantum Particle Network (QPN)** was invented and communication between star systems was easy. Scientists tried to send a message to the solar system, but it didn't help, they probably thought that this technology had not been invented in the solar system yet.
 
 #### 2811...
 
-Advances in Stargate technology have given hope of reaching the solar system again. But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
+Advances in **Stargate** technology have given hope of reaching the solar system again. But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
 
-When the humans realized that there was no possibility of reaching the main system, chaos ensued and war broke out between different planets and space stations. This war lasted for a very long time and in the end, Walter Friessner, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the Asha Empire. Although Emperor Friessner initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor.
+When the humans realized that there was no possibility of reaching the main system, chaos ensued and war broke out between different planets and space stations. This war lasted for a very long time and in the end, **Walter Friessner**, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the Asha Empire. Although **Emperor Friessner** initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor.
 
 #### 3023...
 
-The center of the empire has been declared by Emperor Friessner as the planet Novus in the Viridis system. Years passed and the year is now 3023, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 14.
+The center of the empire has been declared by **Emperor Friessner** as the planet **Novus** in the **Viridis system**. Years passed and the year is now 3023, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 14.
 
 Imperial navy forces have taken control of all settled star systems, planets and stations, but man is going to new systems and they continue to settle on new planets. As long as it didn't pose a threat to the empire, it stopped controlling these new star systems and freed the humans.
