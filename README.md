@@ -23,7 +23,7 @@ However, due to the long journey times, humans could not get out of Mars, the as
 
 #### 2300...
 
-With the developments in fusion engines in 2300 years, with new engines named the **Pusion Engine (Fusion Plus)** the speed of spaceships reached from 11000km/sec to 33000km/sec. The first habitable space station was established near the asteroid belt, as the logistical problems were quickly resolved by the Pusion engine.
+With the developments in fusion engines in the 2300s, with new engines named the **Pusion Engine (Fusion Plus)** the speed of spaceships reached from 11000km/sec to 33000km/sec. The first habitable space station was established near the asteroid belt, as the logistical problems were quickly resolved by the Pusion engine.
 
 #### 2400...
 
