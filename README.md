@@ -45,6 +45,8 @@ After all this turmoil and conflicts, in 2550, the people of the solar system fo
 
 But everything changed In 2576 with the discovery of a natural wormhole that appeared near the dwarf planet Orcus. Because of no settlement on the dwarf planet Orcus, they initially thought the determined wormhole was a reflection of the planet's moon Vanth, but when a explorer drones revealed the truths, the USSS navy has been protected the wormhole and wouldn't let anyone get close.
 
+#### 2580...
+
 It turned out that the wormhole had opened up leading to an unexplored and unidentified star system after the scientists did their initial research and several drones had successfully passed and returned through the wormhole.
 
 In the first few decades only the best scientists in the solar system toghether with navy officers have gone through the wormhole and set up a space station and explored and searched for planets and then after have colonized the most suitable planet.
