@@ -10,7 +10,7 @@ Humanity established its first colony on Mars in 2036. For the first time outsid
 
 #### 2100...
 
-Around 2100, all fusion reactors in the world replaced with fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to explosive population growth on Earth, millions of people have succeeded in colonizing Mars.
+Around 2100, all fusion reactors in the world replaced with fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to explosive population growth on Earth, millions of people have succeeded in colonizing Mars. 
 
 
 #### 2200...
@@ -19,11 +19,15 @@ With the developments in the Fusion reactors in 2200, their size was reduced, al
 
 Reaching the asteroid belt in a short time and mining, humanity was trying to go beyond. That's why they set up space stations in different places.
 
-However, due to the long journey times, humans could not get out of Mars, the asteroid belt and space stations in these regions.
+However, due to the long journey times, humans could not get out of Mars, the asteroid belt and space outposts in these regions.
 
 #### 2300...
 
-With the developments in fusion engines in 2300 years, with new engines named the **Pusion Engine (Fusion Plus)** the speed of spaceships reached from 11000km/sec to 33000km/sec.
+With the developments in fusion engines in 2300 years, with new engines named the **Pusion Engine (Fusion Plus)** the speed of spaceships reached from 11000km/sec to 33000km/sec. The first habitable space station was established near the asteroid belt, as the logistical problems were quickly resolved by the Pusion engine.
+
+#### 2400...
+
+They built Jupiter's solar system, the largest space hub, inhabited by a million people.
 
 #### 2550...
 
