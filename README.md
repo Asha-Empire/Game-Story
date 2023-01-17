@@ -57,7 +57,7 @@ Scientists named this new system as **Vita Nova** for hoping to new life and its
 
 #### 2592...
 
-Humanity, having used up most of Solar System's resources through centuries of explosive population growth, began colonizing newly found star system **Vita Nova**. The colonies began to flourish, and all was looking good under USSS navy control.
+Humanity, having used up most of Solar System's resources through centuries of explosive population growth, began colonizing newly found star system **Vita Nova**. The colonies began to flourish, and all was looking good under **USSS** navy control.
 
 #### 2692...
 
