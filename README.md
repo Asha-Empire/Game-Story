@@ -85,14 +85,16 @@ When the humans realized that there was no possibility of reaching the main syst
 
 #### 3009... or 0...
 
-This war lasted for a very long time and in the end, **Walter Friessner**, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the **Asha Empire**. Although **Emperor Friessner** initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor.
+This war lasted for a very long time and in the end, **Walter Friessner**, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the **Asha Empire**. Although **Emperor Walter** initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor.
 
 #### 3023... or 14...
 
-The center of the empire has been declared by **Emperor Friessner** as the planet **Novus** in the **Viridis system**. Years passed and the year is now 3023, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 14.
+The center of the empire has been declared by **Emperor Walter** as the planet **Novus** in the **Viridis system**. Years passed and the year is now 3023, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 14.
 
 Imperial navy forces have taken control of all settled star systems, planets and stations, but man is going to new systems and they continue to settle on new planets. As long as it did not pose a threat to the Empire, he ceased to control these new star systems and allowed humans to live freely in these systems because the cost of controlling them was too high.
 
 #### 20...
 
 Emperor **Walter Friessner** died in the year 20 at the age of 92. His daughter **Naina Friessner** took the throne as queen.
+
+Long live **Queen Naina**...
