@@ -95,4 +95,4 @@ Imperial navy forces have taken control of all settled star systems, planets and
 
 #### 20...
 
-Emperor **Walter Friessner** died in 20. His daughter **Naina Friessner** took the throne as queen.
+Emperor **Walter Friessner** died in the year 20 at the age of 92. His daughter **Naina Friessner** took the throne as queen.
