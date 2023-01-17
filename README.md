@@ -35,7 +35,7 @@ Around the year 2450, humanity dispersed to most of the solar system, establishe
 
 #### 2505...
 
-Millions died in the nuclear attacks on Mars in 2505. More than a billion people died with the **Galilean Hub** and the **Mars** attacks on Earth.
+Millions died in the nuclear attacks on Mars in 2505. More than a billion people died with the **Galilean Hub** and the **Mars** attacks on Earth. Meanwhile Jupiter moon Io was destroyed.
 
 #### 2550...
 
