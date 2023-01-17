@@ -27,7 +27,7 @@ With the developments in fusion engines in 2300 years, with new engines named th
 
 #### 2400...
 
-After lots of space outposts, a few space stations and and settlements on some dwarf planets of the asteroid belt, such as Ceres and Vesta were built, the largest **Space Hub** in the solar system, inhabited by a million people, was built near Jupiter. However, after the dispersal of humanity in the solar system, some political problems arose and regional conflicts were experienced.
+In the 2400s after lots of space outposts, a few space stations and and settlements on some dwarf planets of the asteroid belt, such as Ceres and Vesta were built, the largest **Space Hub** in the solar system, inhabited by a million people, was built near Jupiter. However, after the dispersal of humanity in the solar system, some political problems arose and regional conflicts were experienced.
 
 #### 2550...
 
