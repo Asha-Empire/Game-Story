@@ -10,7 +10,8 @@ Humanity established its first colony on Mars in 2036. For the first time outsid
 
 #### 2100...
 
-Around 2100, all fusion reactors in the world replaced with fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers.
+Around 2100, all fusion reactors in the world replaced with fission reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to explosive population growth, millions of people have succeeded in colonizing Mars.
+
 
 #### 2200...
 
