@@ -19,7 +19,7 @@ With the developments in the Fusion reactors in 2200, their size was reduced, al
 
 Reaching the asteroid belt in a short time and mining, humanity was trying to go beyond. That's why they set up space stations in different places.
 
-However, due to the long journey times, humans could not get out of Mars, the asteroid belt and space outposts in these regions.
+However, due to the long traveling times, humans could not get out of Mars, the asteroid belt and space outposts in these regions.
 
 #### 2300...
 
