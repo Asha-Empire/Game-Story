@@ -27,13 +27,15 @@ With the developments in fusion engines in the 2300s, with new engines named the
 
 #### 2400...
 
-In the 2400s after lots of space outposts, a few space stations and and settlements on some dwarf planets of the asteroid belt, such as Ceres and Vesta were built, the largest **Space Hub** in the solar system, inhabited by a million people, was built near Jupiter. However, after the dispersal of humanity in the solar system, some political problems arose and regional conflicts were experienced.
+In the 2400s after lots of space outposts, a few space stations and and settlements on some dwarf planets of the asteroid belt, such as Ceres and Vesta were built, the largest **Space Hub** in the solar system, inhabited by a million people, was built near Jupiter. 
+
+#### 2450...
+
+Around the year 2450, humanity dispersed to most of the solar system, established different space stations and conquered the solar system with the technologies they reached. However, after the dispersal of humanity in the solar system, some political problems arose and regional conflicts were experienced.
 
 #### 2550...
 
-Around the year 2550, mankind dispersed to most of the solar system, established different space stations and conquered the solar system with the technologies they reached.
-
-The earth-centered government, made up of people spread over the solar system, was called the Solar System United States (USSS).
+After all this turmoil and conflicts, in 2550, the people of the solar system formed a union and decided to establish a central government. The earth-centered government, made up of people spread over the solar system, was called the **Solar System United States (USSS)**.
 
 #### 2576...
 
