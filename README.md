@@ -55,6 +55,8 @@ Scientists have determined that the reason why this new system and the galaxy ha
 
 Scientists named this new system as **Vita Nova** for hoping to new life and its galaxy as **Asha** because they thought this new galaxy is the symbol of truth and existence.
 
+#### 2592...
+
 Humanity, having used up most of Earth's resources through centuries of explosive population growth, began colonizing newly found star system **Vita Nova**. The colonies began to flourish, and all was looking good.
 
 #### 2692...
