@@ -6,7 +6,7 @@
 
 #### 2036...
 
-Humanity established its first colony on Mars in 2036. For the first time outside of Earth, they truly settled another planet.
+Humanity established its first colony on Mars in 2036. For the first time outside of Earth, they truly settled another planet. Although there were signs of life on Mars in the past, unfortunately life has not been found on Mars, despite all the research. Within a few decades, a colony of thousands of people was established on Mars.
 
 #### 2100...
 
