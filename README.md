@@ -38,7 +38,7 @@ It turned out that the wormhole had opened up leading to an unexplored and unide
 
 In the first few decades only the best scientists in the solar system toghether with navy officers have gone through the wormhole and set up a space station and explored and searched for planets and then after have colonized the most suitable planet.
 
-Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system and they have determined its distance to solar system is approximately 75 billion light years. They found a habitable planet with different kinds of animals and plants. They found a new kind of energy source stone on this planet which they called **Saian** that is similar to Amethyst stone. They named this new planet as **Saiantum**.
+Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system and they have determined its distance to solar system is approximately 75 billion light years. Humanity finally discovers that there is extraterrestrial life, but they have not encountered a creature as intelligent as humans. They found a habitable planet with different kinds of animals and plants. They found a new kind of energy source stone on this planet which they called **Saian** that is similar to Amethyst stone. They named this new planet as **Saiantum**.
 
 Scientists named this new system as **Vita Nova** for hoping to new life and its galaxy as **Asha** because they thought this new galaxy is the symbol of truth and existence.
 
