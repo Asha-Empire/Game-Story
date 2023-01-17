@@ -27,7 +27,7 @@ With the developments in fusion engines in the 2300s, with new engines named the
 
 #### 2400...
 
-In the 2400s after lots of space outposts, a few space stations and and settlements on some dwarf planets of the asteroid belt, such as Ceres and Vesta were built, the largest **Space Hub** in the solar system named it **Copernicus Spot**, inhabited by a million people, was built near Jupiter. 
+In the 2400s after lots of space outposts, a few space stations and and settlements on some dwarf planets of the asteroid belt, such as Ceres and Vesta were built, the largest **Space Hub** in the solar system named it **Galilean Hub**, inhabited by a million people, was built near Jupiter. They then built settlements on Jupiter's moons of **Io**, **Europa**, **Ganymede**, and **Callisto**.
 
 #### 2450...
 
