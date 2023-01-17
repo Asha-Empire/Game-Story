@@ -27,7 +27,7 @@ With the developments in fusion engines in 2300 years, with new engines named th
 
 #### 2400...
 
-They built Jupiter's solar system, the largest space hub, inhabited by a million people.
+Lots of space outposts, a few space stations and and settlements on some dwarf planets of the asteroid belt, such as Ceres and Vesta, the largest **Space Hub** in the solar system, inhabited by a million people, was built near Jupiter. However, after humanity dispersed into the solar system, some political problems arose and regional conflicts took place.
 
 #### 2550...
 
