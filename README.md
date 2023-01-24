@@ -85,7 +85,7 @@ When the humans realized that there was no possibility of reaching the main syst
 
 #### 3009... or 0...
 
-This war lasted for a very long time and in the end, **Walter Friessner**, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the **Asha Empire**. Although **Emperor Walter** initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor.
+This war lasted for a very long time and in the end, **Walter Friessner**, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the **Asha Empire**. Although **Emperor Walter** initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor. Also, the emperor introduced the **Asha Empire Credit** (**___AEC___**) currency instead of the USSS dollar.
 
 #### 3023... or 14...
 
