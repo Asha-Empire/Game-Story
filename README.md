@@ -31,11 +31,13 @@ Around 2100, all fission reactors in the world replaced with fusion reactors. On
 
 #### 2200...
 
-With the developments in the Fusion reactors in 2200, their size was reduced, allowing the **Fusiun Engines** to be easily integrated into different sized spaceships. This development has made space travel easier and faster.
+In 2200, with the developments in Fusion reactors, they were reduced in size and started to be used as engines in spaceships. It has been ensured that **Fusiun Engines** can be easily integrated into spaceships of different sizes. This development has made space travel easier and faster.
 
-Reaching the asteroid belt in a short time and mining, humanity was trying to go beyond. That's why they set up space stations in different places.
+#### 2204...
 
-However, due to the long traveling times, humans could not get out of Mars, the asteroid belt and space outposts in these regions.
+Reaching the asteroid belt and starting mining in 2204 was considered a breakthrough for humanity. They were building up space outposts in different places to set up easy supply lines between Earth, Mars and asteroid belt.
+
+However, due to the long travelling times, people could not get out of these regions, space between Earth, Mars and the asteroid belt. They've been content with sending satellites and unmanned spacecraft beyond the asteroid belt.
 
 #### 2300...
 
