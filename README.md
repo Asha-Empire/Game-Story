@@ -4,9 +4,15 @@
 
 ## Path to the Asha Empire
 
+#### 2029
+
+In 2029, the first outpost was established on the **Moon**. Different companies from the UK, EU, USA and China started mining on the Moon.
+
 #### 2036...
 
-Humanity established its first colony on Mars in 2036. For the first time outside of Earth, they truly settled another planet. Although there were signs of life on Mars in the past, unfortunately life has not been found on Mars, despite all the research. Within a few decades, a colony of thousands of people was established on Mars.
+The first **Fusion Reactor** started to be built on Moon to use the **H3** resources found on the moon.
+
+Humanity established its first colony on **Mars** in 2036. For the first time outside of Earth, they truly settled another planet. Although there were signs of life on Mars in the past, unfortunately life has not been found on Mars, despite all the research. Within a few decades, a colony of thousands of people was established on Mars.
 
 #### 2100...
 
