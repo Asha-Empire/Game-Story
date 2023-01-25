@@ -59,7 +59,19 @@ Around the year 2450, humanity dispersed to most of the solar system, establishe
 
 #### 2505...
 
-Millions died in the nuclear attacks on Mars in 2505. More than a billion people died with the **Galilean Hub** and the **Mars** attacks on Earth. Meanwhile Jupiter moon Io was destroyed.
+In 2505, millions of people died in the nuclear attacks on Mars. Attacks on outposts around the Galilean Hub killed thousands of people, and attacks on Earth more than a billion people died. Meanwhile, Jupiter's moon Io was destroyed, and As a result, a very important civilian research laboratory was destroyed, along with its scientists and their families.
+
+#### 2512...
+
+After the Io research lab was destroyed, the Galilean Hub and Mars became allies against Earth. Earth began to fight against the entire solar system, one by one it began to lose own space outposts.
+
+#### 2522...
+
+Earth is almost about to lose the war. Everyone sees this, but they try to endure until the end. They cannot accept Earth's colonies defeating Earth. 
+
+#### 2523...
+
+After major losses on Earth in recent years, Clonex Corp. presented the use of cloning technology, which is the result of long long much researchs. People can insure themselves in cloning offices and easily come back to life in case of their possible death. In war with Mars and the Galileon Hub, this invention completely changed the situation of Earth.
 
 #### 2550...
 
