@@ -14,7 +14,7 @@ Humanity established its first colony on **Mars** in 2036. For the first time ou
 
 #### 2041...
 
-Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil and China started mining on the Mars. Consortium of US, EU and Chinese firms began building the first **Martian Spaceship Industries (MSI)** factory. 
+Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil and China started mining on the Mars. Consortium of US, EU and Chinese firms began building the first **Martian Spaceship Industries (MSI)** factory on Mars. 
 
 #### 2043...
 
