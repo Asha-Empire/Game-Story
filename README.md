@@ -18,11 +18,15 @@ Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil a
 
 #### 2043...
 
-The first Nuclear Power Plant with a fission reactor began operation on Mars. With the elimination of the energy shortage, more industrial facilities and settlements on Mars accelerated to develop.
+The first Nuclear Power Plant with a fission reactor began operation on Mars. With the elimination of the energy shortage, more industrial facilities and settlements on Mars accelerated to develop. The **New Eden site** was set up in Mars' Elysium quadrangle as the most popular location.
 
 #### 2045...
 
 The Agricultural Industry on Mars has caused imports of wheat and corn from Earth to drop to zero. The new generation of sheep developed by geneticists on Mars was able to successfully breeding and live. Sheep farm industry was established. Within a few decades, a colony of thousands of people was settled on Mars.
+
+#### 2051...
+
+The first **Fusion reactor** was operated successfully in the Moon. After this success, the construction of the Fusion reactors started in the city of Bushehr on Earth, 600km north of the New Eden site on Mars' Cebrenia quadrangle.
 
 #### 2100...
 
