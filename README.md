@@ -59,7 +59,7 @@ Around the year 2450, humanity dispersed to most of the solar system, establishe
 
 #### 2505...
 
-In 2505, millions of people died in the nuclear attacks on Mars. Attacks on outposts around the Galilean Hub killed thousands of people, and attacks on Earth more than a billion people died. Meanwhile, Jupiter's moon Io was destroyed, and As a result, a very important civilian research laboratory was destroyed, along with its scientists and their families.
+In 2505, millions of people died in the nuclear attacks on Mars. Attacks on outposts around the Galilean Hub killed thousands of people, and attacks on Earth more than a billion people died. Meanwhile, Jupiter's moon Io was destroyed, and As a result, a very important civilian research laboratory was destroyed by Earth namvy forces, along with its scientists and their families.
 
 #### 2512...
 
