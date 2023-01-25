@@ -10,15 +10,19 @@ In 2029, the first moon outpost or **Luna Base** was established. Different comp
 
 The first **Fusion Reactor** started to be built on Moon to use the **H<sub>3</sub>** resources found on the moon.
 
-Humanity established its first colony on **Mars** in 2036. For the first time outside of Earth, they truly settled another planet. Although there are signs of life on Mars millions of years ago, unfortunately, despite all the research, even single-celled life has not been found on Mars.
+Humanity established its first colony on **Mars** in 2036. For the first time outside of Earth, they truly settled another planet. Hundreds of scientists from different branches went to Mars to research and work. Despite the presence of fossils and life remains from millions of years ago on Mars, unfortunately, despite all the research, even single-celled life has not been found.
 
 #### 2041...
 
-Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil and China started mining on the Mars. Consortium of US, EU and Chinese firms began building the first **Martian Spaceship Industries (MSI)** factory on Mars. 
+Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil and China started mining on the Mars. A consortium of US, EU and Chinese companies has started to build the first **Mars Spaceship Industries (MSI)** factory on Mars. This factory will be 99% run by robots.
 
 #### 2043...
 
 The first Nuclear Power Plant with a fission reactor began operation on Mars. Within a few decades, a colony of thousands of people was settled on Mars.
+
+#### 2045...
+
+The Agricultural Industry on Mars has caused imports of wheat and corn from Earth to drop to zero. The new generation of sheep developed by geneticists on Mars was able to successfully breeding and live. Sheep farm industry was established. 
 
 #### 2100...
 
