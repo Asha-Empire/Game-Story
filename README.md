@@ -26,7 +26,7 @@ The Agricultural Industry on Mars has caused imports of wheat and corn from Eart
 
 #### 2100...
 
-Around 2100, all fission reactors in the world replaced with fusion reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to explosive population growth on Earth, millions of people have succeeded in colonizing Mars. 
+Around 2100, all fission reactors in the world replaced with fusion reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to the explosive population growth on Earth, millions of people, with the exception of scientists and soldiers, have succeed to colonize **Mars**.
 
 
 #### 2200...
