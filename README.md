@@ -4,11 +4,11 @@
 
 #### 2029...
 
-In 2029, the first outpost **Luna Base** was established on the **Moon**. Different companies from the UK, EU, USA and China started mining on the Moon.
+In 2029, the first moon outpost or **Luna Base** was established. Different companies from the UK, EU, USA and China started mining on the Moon.
 
 #### 2036...
 
-The first **Fusion Reactor** started to be built on Moon to use the **H3** resources found on the moon.
+The first **Fusion Reactor** started to be built on Moon to use the **H<sub>3</sub>** resources found on the moon.
 
 Humanity established its first colony on **Mars** in 2036. For the first time outside of Earth, they truly settled another planet. Although there are signs of life on Mars millions of years ago, unfortunately, despite all the research, even single-celled life has not been found on Mars.
 
