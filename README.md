@@ -1,5 +1,7 @@
 # Game Story
 
+The millennial roadmap. Almost from today until the year 3029, when the Asha Empire was founded and the game started.
+
 ## Path to the Asha Empire
 
 #### 2029...
