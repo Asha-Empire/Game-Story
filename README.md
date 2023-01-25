@@ -30,6 +30,10 @@ The Agricultural Industry on Mars has caused imports of wheat and corn from Eart
 
 The first **Fusion reactor** was operated successfully in the Moon. After this success, the construction of the Fusion reactors started in the city of Bushehr on Earth, 600km north of the New Eden site on Mars' Cebrenia quadrangle.
 
+#### 2065...
+
+BioNTech Inc. represent Organ cultivation or regrowth, is a biomass production process to regrow or produce organs that have been damaged in some way by using the patient's DNA.
+
 #### 2100...
 
 Around 2100, all fission reactors in the world replaced with fusion reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to the explosive population growth on Earth, millions of people, with the exception of scientists and soldiers, have succeed to colonize **Mars**.
@@ -71,7 +75,7 @@ Earth is almost about to lose the war. Everyone sees this, but they try to endur
 
 #### 2523...
 
-After major losses on Earth in recent years, Clonex Corp. presented the use of cloning technology, which is the result of long long much researchs. People can insure themselves in cloning offices and easily come back to life in case of their possible death. In war with Mars and the Galileon Hub, this invention completely changed the situation of Earth.
+After major losses on Earth in recent years, Clonex Corp. presented the use of cloning technology, which is the result of long long much researchs. People can insure themselves in cloning offices and easily come back to life in case of their possible death. In war with Mars and the Galilean Hub, this invention completely changed the situation of Earth.
 
 #### 2550...
 
