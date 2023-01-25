@@ -1,6 +1,6 @@
 # Game Story
 
-The millennial roadmap. Almost from today until the year 3029, when the Asha Empire was founded and the game started.
+The millennial roadmap. Almost from today until the year 3029, when, In the Asha Empire, Queen Naina comes to the throne and the game begins.
 
 ## Path to the Asha Empire
 
