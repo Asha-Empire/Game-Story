@@ -18,11 +18,11 @@ Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil a
 
 #### 2043...
 
-The first Nuclear Power Plant with a fission reactor began operation on Mars. Within a few decades, a colony of thousands of people was settled on Mars.
+The first Nuclear Power Plant with a fission reactor began operation on Mars. With the elimination of the energy shortage, more industrial facilities and settlements on Mars accelerated to develop.
 
 #### 2045...
 
-The Agricultural Industry on Mars has caused imports of wheat and corn from Earth to drop to zero. The new generation of sheep developed by geneticists on Mars was able to successfully breeding and live. Sheep farm industry was established. 
+The Agricultural Industry on Mars has caused imports of wheat and corn from Earth to drop to zero. The new generation of sheep developed by geneticists on Mars was able to successfully breeding and live. Sheep farm industry was established. Within a few decades, a colony of thousands of people was settled on Mars.
 
 #### 2100...
 
