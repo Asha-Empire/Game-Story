@@ -6,7 +6,7 @@
 
 #### 2029
 
-In 2029, the first outpost was established on the **Moon**. Different companies from the UK, EU, USA and China started mining on the Moon.
+In 2029, the first outpost **Luna Base** was established on the **Moon**. Different companies from the UK, EU, USA and China started mining on the Moon.
 
 #### 2036...
 
