@@ -1,7 +1,5 @@
 # Game Story
 
-![ASHA EMPIRE FLAG](https://github.com/Asha-Empire/Game-Story/blob/main/images/asha-empire.jpg)
-
 ## Path to the Asha Empire
 
 #### 2029...
@@ -16,7 +14,11 @@ Humanity established its first colony on **Mars** in 2036. For the first time ou
 
 #### 2041...
 
-Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil and China started mining on the Mars. Consortium of US, EU and Chinese firms began building the first **Martian Spaceship Industries (MSI)** factory. Within a few decades, a colony of thousands of people was settled on Mars.
+Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil and China started mining on the Mars. Consortium of US, EU and Chinese firms began building the first **Martian Spaceship Industries (MSI)** factory. 
+
+#### 2043...
+
+The first Nuclear Power Plant with a fission reactor began operation on Mars. Within a few decades, a colony of thousands of people was settled on Mars.
 
 #### 2100...
 
