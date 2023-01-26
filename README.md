@@ -276,9 +276,15 @@ In 2770, the **Quantum Particle Network (QPN)** was invented and communication b
 
 Quantum Particle Network (QPN) is a technology that uses quantum particles to transmit information faster than the speed of light. This technology utilizes properties of quantum particles such as superposition and entanglement to transmit data over large distances almost instantaneously. This allows for communication between colonies in different star systems, overcoming the limitation of traditional communication methods that were limited to the speed of light. QPN works are based on principles of quantum physics and information theory, such as quantum teleportation or quantum key distribution.
 
+#### 2774...
+
+In 2774, scientists developed the technology to create wormholes. This technology allows for instantaneous travel from one point in space to another. However, the energy requirements to create these wormholes are enormous and it is not currently possible to create stable, long-lasting wormholes.
+
 #### 2811...
 
-Advances in **Stargate** technology have given hope of reaching the solar system again. But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
+Advances in **Stargate** technology have given hope of reaching the solar system again. The technology of creating wormholes has advanced to the point where it is now referred to as Stargate technology. This technology allows for instant transportation between two points in space, but the energy required to create long wormholes is still prohibitively high.
+
+But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
 
 When the humans realized that there was no possibility of reaching the main system, chaos ensued and war broke out between different planets, space stations and hubs of **Asha Galaxy**. 
 
