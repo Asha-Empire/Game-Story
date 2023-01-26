@@ -339,8 +339,31 @@ Years have passed and it is now 3023, but **Emperor Walter Friessner** declared 
 
 The Imperial navy forces of the Asha Empire have taken control of all the settled star systems, planets and stations in the Asha galaxy. However, humans continue to explore and settle in new systems and planets. As long as these new settlements do not pose a threat to the empire, the imperial navy has chosen not to exert control over them, as the cost of doing so is deemed too high. Instead, the inhabitants of these new systems are allowed to live freely, as long as they do not challenge the authority of the empire.
 
+#### 15...
+This decision has proven to be a wise one, as many of these new systems have begun to flourish under the autonomy and self-governance. Trade and commerce have flourished between these systems and the Empire, and many have even begun to pay tribute to the Empire in exchange for protection and support.
+
+#### 16...
+
+In the following year, the Empire continued to expand its territory through colonization and diplomacy. The government established new colonies on uninhabited planets, and established trade agreements with other civilizations. The empire's economy grew steadily as a result of this expansion, and the standard of living for citizens improved.
+
+However, this new era of expansion and prosperity has also brought new challenges for the Empire. As more and more systems join the Empire, the central government must adapt to accommodate the diverse needs and cultures of these new subjects. Additionally, the Empire must also contend with the threat of rogue factions and bandits who seek to exploit the new systems for their own gain.
+
+#### 17...
+
+However, as the empire expanded, it also faced new challenges. The government struggled to maintain control over the new colonies and there were frequent uprisings and rebellions. Additionally, the empire's rapid expansion strained its resources and the government had to implement strict rationing policies to avoid shortages.
+
+#### 18...
+
+Despite these challenges, the Empire managed to maintain stability and continue to grow and remains strong and continues to adapt to the ever-changing landscape of the **Asha galaxy**. Under the guidance of the Imperial navy, the Empire's reach continues to expand, and the people enjoy peace and prosperity. The government implemented policies aimed at improving the lives of citizens and addressing the concerns of the colonies. The empire's military also continued to expand, and it became one of the most powerful in the galaxy.
+
+#### 19...
+
+Asha empire faced new challenges as new civilizations and empires emerged in the galaxy. The government had to adapt to these new challenges and maintain the empire.
+
+The empire, under the leadership of **Emperor Walter**, had become a dominant force in **the Asha galaxy**, but the cost of maintaining control over the entire galaxy was becoming increasingly costly. The emperor decided to focus on consolidating and solidifying control over the systems that were already under the empire's rule, while allowing new colonies and settlements to flourish in the systems that were not considered a threat to the empire.
+
 #### 20...
 
 Emperor **Walter Friessner** died in the year 20 at the age of 92. His daughter **Naina Friessner** took the throne as queen.
 
-Long live **Queen Naina**...
+Long live **Queen Naina**... And game begin.
