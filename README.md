@@ -36,7 +36,7 @@ The first **Fusion reactor** was operated successfully in the Moon. After this s
 
 #### 2065...
 
-BioNTech Inc. represent Organ cultivation or regrowth, is a biomass production process to regrow or produce organs that have been damaged in some way by using the patient's DNA.
+BioNTech Inc. represent Organ cultivation or regrowth, is a biomass production process to regrow or produce organs that have been damaged in some way. This process involves using a patient's own DNA to grow replacement organs or tissue in a laboratory setting. This can be done by taking a small sample of cells from the patient, reprogramming them into stem cells, and then using these cells to grow the replacement organ or tissue.
 
 #### 2080...
 
@@ -52,7 +52,13 @@ The MUR government invests heavily in the development of advanced artificial int
 
 #### 2097...
 
-The MUR government, in partnership with BioNTech Inc., develops a revolutionary new medical technology called "RegenTech", which is able to regrow and replace damaged or diseased organs using the patient's own DNA. This technology is quickly adopted by hospitals and clinics throughout the MUR, greatly improving the overall health and longevity of the population.
+The MUR government, in partnership with BioNTech Inc., develops a revolutionary new medical technology called **"RegenTech"**, which is able to regrow and replace damaged or diseased organs using the patient's own DNA. This technology is quickly adopted by hospitals and clinics throughout the MUR, greatly improving the overall health and longevity of the population.
+
+**RegenTech**, also known as regenerative technology, is a field of medicine that involves the use of various techniques to regrow or repair damaged or diseased tissue, organs, and cells. The goal of RegenTech is to restore function and improve the quality of life for patients with chronic conditions or injuries.
+
+One of the key technologies in RegenTech is organ cultivation or regrowth. This process is still under research, but the first successful operation was performed by BioNTech Inc. in 2065. The company used this technology to regrow a damaged liver in a patient who had liver disease. Since then, BioNTech Inc. and other companies have continued to research and develop this technology, and have successfully regrown other organs such as the heart, lungs, and kidneys.
+
+RegenTech has the potential to revolutionize the field of medicine, as it offers a way to repair or replace damaged or diseased tissue and organs without the need for organ donation or transplants. It also has the potential to treat a wide range of conditions, including organ failure, chronic diseases, and injuries. However, it is important to note that this technology is still in its early stages of development and more research and testing is needed before it can be widely adopted.
 
 #### 2098...
 
