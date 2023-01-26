@@ -200,7 +200,7 @@ After the Io research lab was destroyed, the Galilean Hub, MUR and PR became all
 
 #### 2522...
 
-UNR is almost about to lose the war. Everyone sees this, but they try to endure until the end. They cannot accept Earth's colonies defeating UNR. 
+The United Nations of Earth (UNR) is on the brink of defeat in the ongoing war. The situation is dire and it is clear to all that UNR is losing, but they refuse to give up and continue to fight. The thought of their colonies being defeated by their enemies is unbearable to them, and they are determined to endure until the end.
 
 #### 2523...
 
