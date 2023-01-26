@@ -80,7 +80,7 @@ The colony would continue to develop and grow, with new technologies and resourc
 
 The colonization of Mars would also present many challenges, such as the harsh Martian environment, limited resources, and the need for advanced technologies to support human life.
 
-#### 2210...
+#### 2110...
 
 In 2110, the terraforming of Mars continued to progress, with the creation of a habitable atmosphere and the introduction of Earth-like flora and fauna. The MUR government, in partnership with private companies, began building large-scale cities and infrastructure to support the growing population.
 
@@ -91,6 +91,18 @@ The MUR also continued to invest in the development of advanced technologies suc
 In 2110, the MUR also began to establish trade and diplomatic relations with other nations and extraterrestrial civilizations. The MUR's advanced technologies and resources made it a valuable trading partner, and it quickly became a major player in the interplanetary economy.
 
 In addition, 2110 also marks the first manned mission to Europa, one of Jupiter's moon with the goal of finding microbial life in the subsurface ocean beneath the icy surface. The discovery of microbial life on Europa would be a major breakthrough in the field of astrobiology and would have significant implications for the search for life elsewhere in the universe.
+
+#### 2125...
+
+Earth continued to face challenges related to population growth, climate change and resource scarcity. Efforts to address these issues have included increased investment in renewable energy, sustainable agriculture and urban planning, as well as research into new technologies such as advanced artificial intelligence, biotechnology and materials science. To address global challenges such as poverty, inequality and political instability, nations and private companies collaborated to form **United Nation Repubic (UNR)**. In addition, with the developments in fusion reactors, it may be possible for us to have a more sustainable energy source that can reduce dependence on fossil fuels.
+
+#### 2130...
+
+UNR started to develop laser weapons for using by the military or law enforcement. However, the development and implementation of such technology solved the problem of the energy required using very little "Solanium". But it is worth noting that the use of laser weapons in warfare is still being debated as it raises religious, ethical and legal questions.
+
+#### 2132...
+
+At UNR's request, and with advances in propulsion technology, PT Inc. completed the development of space torpedoes, which are essentially laser guided missiles capable of traveling in space.
 
 #### 2200...
 
