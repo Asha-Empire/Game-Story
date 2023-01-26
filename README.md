@@ -26,6 +26,10 @@ The first Nuclear Power Plant with a fission reactor began operation on Mars. Wi
 
 The Agricultural Industry on Mars has caused imports of wheat and corn from Earth to drop to zero. The new generation of sheep developed by geneticists on Mars was able to successfully breeding and live. Sheep farm industry was established. Within a few decades, a colony of thousands of people was settled on Mars.
 
+#### 2050...
+
+The mining of resources on the Moon led to a major technological and industrial revolution on Earth. This includes the development of new materials, energy sources, and propulsion systems. The discovery of a new element called **"Solanium"** on the Moon, with its unique properties of extreme durability and energy conductivity, leads to a new era of advanced technologies such as faster-than-light travel and artificial intelligence.
+
 #### 2051...
 
 The first **Fusion reactor** was operated successfully in the Moon. After this success, the construction of the Fusion reactors started in the city of Bushehr on Earth, 600km north of the New Eden site on Mars' Cebrenia quadrangle.
