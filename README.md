@@ -295,11 +295,29 @@ But the situation changed after the first Stargate was built in 2811. It turned 
 
 The war between the different factions in **Asha galaxy** continued to escalate. As resources became increasingly scarce, many planets, space stations, and hubs were forced to band together for protection and to secure access to resources. These alliances formed the foundation for larger and more powerful factions, which eventually led to the formation of powerful empires.
 
+#### 2835...
+The planet of **Helios**, known for its rich mineral resources, was a key target for many of the factions. A fierce battle ensued as both the **Sanaturnian Alliance** and the **Hovian Confederation** fought for control of the planet. The Sanaturnians, with their advanced technology and superior numbers, were able to gain the upper hand and ultimately defeated the Hovians, securing control of Helios for themselves.
+
+#### 2850...
+The planet of **Polaris**, located in the **New Andromeda system**, was home to a powerful faction known as the **Polaris Confederation**. They had a well-trained and equipped military, as well as advanced technology and resources. A warlord by the name of **Walter Friessner** saw them as a major threat to his system **Viridis system** and launched a massive invasion to conquer the planet. The battle was brutal and lasted for several months, but ultimately, Walter emerged victorious and the Polaris Confederation was dissolved.
+
 #### 2900...
 
 In the early 2900s, a powerful warlord by the name of **Walter Friessner** emerged as a leader of one of the strongest factions. He was a descendant of German immigrants who had fled to the **Asha galaxy** in the early days of colonization. He was a brilliant military strategist and was able to unite many of the factions under his leadership.
 
 Walter's empire was known for its powerful military and advanced technology, which allowed him to conquer planet after planet. He was able to defeat his rivals and establish control over **Viridis system**. He then declared himself Emperor of the **Viridis system** and established his capital on the planet **Novus**.
+
+#### 2920...
+The empire faced a major rebellion on the planet of **Arcturus**, located in the **Cygnus system**. The inhabitants of **Arcturus**, known as the **Arcturans**, had grown discontent with the empire's rule and had begun to organize a resistance movement. Emperor Walter was able to suppress the rebellion with the help of his loyal troops, but it resulted in heavy losses on both sides.
+
+#### 2975...
+The empire faced an unexpected attack from the planet of **Nandromeda**. The Nandromedans, who were known for their advanced technology and powerful warships, launched a surprise assault on the empire's stronghold in the Viridis system. The empire was caught off guard, but Emperor Walter was able to rally his forces and repel the Nandromedan invasion.
+
+#### 2980...
+The empire faced a major threat from the planet of **Gamma Cephei**, located in the **Cepheus system**. The Cepheans were known for their powerful psychic abilities and had formed a powerful psychic army. Emperor Walter was able to defeat the Cepheans with the help of a special psychic-neutralizing weapon.
+
+#### 2990...
+The empire faced a major threat from the planet of **Altauri**. The **Altaurians**, who were known for their advanced technology and powerful warships, had formed a powerful alliance with other planets in the galaxy. Emperor Walter was able to defeat the Altaurians with the help of a special weapon that could destroy entire planets.
 
 #### 3000...
 
@@ -311,9 +329,9 @@ Despite these measures, the empire faced many challenges, including economic ins
 
 #### 3009... or 0...
 
-This war lasted for a very long time and in the end, **Walter Friessner**, declared himself emperor of the **Asha galaxy** and start to conquered planets, stations and star systems one by one, establishing the **Asha Empire**. As Asha Emperor, **Walter** initially sought to establish a democratic state, but as rebellions and betrayals began to emerge, he turned into a dictatorial emperor. He introduced the **Asha Empire Credit (___AEC___)** currency, which replaced the USSS dollar as the primary currency of the empire.
+After a prolonged conflict, **Walter Friessner** declared himself the Emperor of the **Asha galaxy** and began a campaign of conquest, successfully establishing the **Asha Empire**. Initially, **Emperor Walter** intended to establish a democratic government, but as rebellions and betrayals arose, he adopted a more authoritarian rule. He also introduced the **Asha Empire Credit (___AEC___)** as the primary currency of the empire, replacing the USSS dollar.
 
-The center of the **Asha Empire** has been declared by **Emperor Walter** as the planet **Novus** in the **Viridis system**. 
+The capital of the Asha Empire was established by Emperor Walter on the planet **Novus** in the **Viridis system**.
 
 #### 3023... or 14...
 
