@@ -104,6 +104,20 @@ UNR started to develop laser weapons for using by the military or law enforcemen
 
 At UNR's request, and with advances in propulsion technology, PT Inc. completed the development of space torpedoes, which are essentially laser guided missiles capable of traveling in space.
 
+#### 2150...
+
+In 2150, the Martian colony has grown to become a fully-fledged city, with a population of over a million people. The terraforming process is still ongoing, but the atmosphere has been stabilized, and the planet has become much more hospitable to human life. The city has advanced infrastructure, including high-rise buildings, transportation systems, and a robust economy.
+
+The MUR government has continued to invest in advanced technologies such as robotics, artificial intelligence, and biotechnology, which has led to significant advances in areas such as healthcare, agriculture, and manufacturing. The colony has also developed a thriving space industry, with private companies launching regular missions to other planets and moons in the solar system.
+
+On Earth, the UNR has continued to address global challenges such as climate change, poverty, and inequality through the use of advanced technologies and international cooperation. The use of laser weapons and space torpedoes has become more widespread, but the ethical and legal implications of their use are still being debated.
+
+The UNR has also continued to explore other planets and moons in the solar system, with the goal of finding more habitable worlds and expanding humanity's presence in the universe. The discovery of microbial life on Europa has sparked renewed interest in the search for life elsewhere in the universe, and new missions are being planned to explore other potentially habitable worlds.
+
+#### 2160...
+
+Ademus Corp. the most advanced spaceship factory established in Earth orbit. This was an important project supported by UNR against the technology developments of Mars.
+
 #### 2200...
 
 In 2200, with the developments in Fusion reactors, they were reduced in size and started to be used as engines in spaceships. It has been ensured that **Fusiun Engines** can be easily integrated into spaceships of different sizes. This development has made space travel easier and faster.
