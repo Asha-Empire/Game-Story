@@ -70,8 +70,27 @@ The MUR government, in collaboration with other nations and private companies, l
 
 #### 2100...
 
-By 2100, all fission reactors in the Earth started to replace with fusion reactors, it would take a significant amount of time and resources to replace all existing fission reactors with fusion ones. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to the explosive population growth on Earth, millions of people, with the exception of scientists and soldiers, have succeed to colonize **Mars**.
+By 2100, the replacement of all existing fission reactors with fusion reactors on Earth would be a gradual process that would take several decades to complete. The process would require significant investments in research and development, as well as large-scale infrastructure projects to build new fusion power plants. Despite the challenges, the benefits of fusion energy, such as its clean and virtually limitless energy source, would make it a worthwhile investment.
 
+On the other hand, the successful operation of the first fusion reactor on Mars would provide a reliable and abundant source of energy for the growing Martian colony. This, in turn, would attract more settlers to Mars and accelerate the development of infrastructure and industry on the planet.
+
+As the population growth on Earth continues to strain the planet's resources, more and more people would look to Mars as a viable option for living. Scientists and soldiers would be among the first to colonize Mars, but eventually, the colony would expand to include a diverse range of people, including families, entrepreneurs, and retirees.
+
+The colony would continue to develop and grow, with new technologies and resources being brought from Earth to support the colony's infrastructure and economy. This would include advanced materials, robotics, and artificial intelligence, which would help to make the colony more self-sufficient and sustainable.
+
+The colonization of Mars would also present many challenges, such as the harsh Martian environment, limited resources, and the need for advanced technologies to support human life.
+
+#### 2210...
+
+In 2110, the terraforming of Mars continued to progress, with the creation of a habitable atmosphere and the introduction of Earth-like flora and fauna. The MUR government, in partnership with private companies, began building large-scale cities and infrastructure to support the growing population.
+
+As the population on Mars increased, the demand for resources also increased. In order to meet this demand, the MUR government began to invest heavily in the development of advanced mining and extraction technologies, such as automated robotic mining and 3D printing.
+
+The MUR also continued to invest in the development of advanced technologies such as artificial intelligence, nanotechnology, and biotechnology. The MUR's strong economy and highly skilled workforce attracted many top scientists and researchers from around the world.
+
+In 2110, the MUR also began to establish trade and diplomatic relations with other nations and extraterrestrial civilizations. The MUR's advanced technologies and resources made it a valuable trading partner, and it quickly became a major player in the interplanetary economy.
+
+In addition, 2110 also marks the first manned mission to Europa, one of Jupiter's moon with the goal of finding microbial life in the subsurface ocean beneath the icy surface. The discovery of microbial life on Europa would be a major breakthrough in the field of astrobiology and would have significant implications for the search for life elsewhere in the universe.
 
 #### 2200...
 
