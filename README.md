@@ -118,6 +118,16 @@ The UNR has also continued to explore other planets and moons in the solar syste
 
 Ademus Corp. the most advanced spaceship factory established in Earth orbit. This was an important project supported by UNR against the technology developments of Mars.
 
+#### 2175...
+
+In 2175, the colonization of Mars has reached a new level of maturity, with multiple cities and settlements spread across the planet. The MUR government has continued to invest in the development of advanced technologies, including the development of fusion reactors for commercial use, which has made the colony even more self-sufficient and sustainable.
+
+The terraforming process has also continued to progress, with the creation of a more Earth-like environment and the introduction of new flora and fauna. The MUR has also begun to focus on developing a space-based economy, with private companies launching regular missions to other planets and moons in the solar system for mining and resource extraction.
+
+On Earth, the UNR has continued to address global challenges and has made significant progress in areas such as renewable energy, sustainable agriculture, and urban planning. The use of laser weapons and space torpedoes has become more widespread, but the ethical and legal implications of their use are still being debated.
+
+The UNR has also continued to explore other planets and moons in the solar system, with the goal of finding more habitable worlds and expanding humanity's presence in the universe. The discovery of microbial life on Europa has sparked renewed interest in the search for life elsewhere in the universe, and new missions are being planned to explore other potentially habitable worlds, such as Saturn's moon Enceladus, which has subsurface ocean, and Titan, which is believed to have a subsurface ocean of liquid water beneath an icy crust.
+
 #### 2200...
 
 In 2200, with the developments in Fusion reactors, they were reduced in size and started to be used as engines in spaceships. It has been ensured that **Fusiun Engines** can be easily integrated into spaceships of different sizes. This development has made space travel easier and faster.
