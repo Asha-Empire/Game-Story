@@ -176,7 +176,7 @@ In 2425, Proxitauri colonies had become a vital part of the intergalactic econom
 
 #### 2450...
 
-Around the year 2450, humanity dispersed to most of the solar system, established different space stations and conquered the solar system with the technologies they reached. However, after the dispersal of humanity in the solar system, some political problems arose and regional conflicts were experienced.
+Around the year 2450, humanity dispersed to most of the solar system and the Proxima Centauri, established different space stations and conquered the solar system and Proxima Centauri with the technologies they reached. However, after the dispersal of humanity in the solar system, some political problems arose and regional conflicts were experienced.
 
 #### 2475...
 
