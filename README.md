@@ -234,11 +234,22 @@ Scientists named this new system as **Vita Nova** for hoping to new life and its
 
 Humanity, having used up most of Solar System's resources through centuries of explosive population growth, began colonizing newly found star system **Vita Nova**. The colonies began to flourish, and all was looking good under **USSS** navy control.
 
+#### 2600...
+
+As the colonies in Vita Nova continue to thrive and expand, the USSS begins to focus on building infrastructure and improving communication between the colonies. The discovery of Saian, the new energy source, leads to technological advancements and increased industrialization on the planet.
+
+#### 2625...
+
+Tensions begin to rise as resources on Saiantum become scarce and competition for them increases. The USSS struggles to maintain control and keep the peace among the colonies.
+
+#### 2650...
+
+
 #### 2692...
 
-And then, after 100 years at 2692, the wormhole collapsed, how it was formed.
+And then, after 100 years at 2692, the wormhole collapsed, how it was formed. With the collapse of the wormhole, the colonies in **Vita Nova** are effectively cut off from the rest of humanity. The USSS begins to lose control as different factions within the colonies vie for power and resources.
 
-Scientists in all colonies began to work together on very different researches, developments and new inventions in order to communicate and even reach the solar system. But the distance is too long, making this developments almost impossible.
+Scientists in all colonies in **Vita Nova** began to work together on very different researches, developments and new inventions in order to communicate and even reach the solar system or Proxima Centauri. But the distance is too long, making this developments almost impossible.
 
 #### 2768...
 
