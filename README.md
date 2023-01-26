@@ -277,22 +277,19 @@ In 2770, the **Quantum Particle Network (QPN)** was invented and communication b
 Quantum Particle Network (QPN) is a technology that uses quantum particles to transmit information faster than the speed of light. This technology utilizes properties of quantum particles such as superposition and entanglement to transmit data over large distances almost instantaneously. This allows for communication between colonies in different star systems, overcoming the limitation of traditional communication methods that were limited to the speed of light. QPN works are based on principles of quantum physics and information theory, such as quantum teleportation or quantum key distribution.
 
 #### 2774...
-
-In 2774, scientists developed the technology to create wormholes. This technology allows for instantaneous travel from one point in space to another. However, the energy requirements to create these wormholes are enormous and it is not currently possible to create stable, long-lasting wormholes.
+In 2774, scientists in the Vita Nova colonies developed a breakthrough technology for creating wormholes. This technology allows for instantaneous travel from one point in space to another, eliminating the need for long and dangerous interstellar journeys. However, the energy requirements to create these wormholes are enormous, and it is not currently possible to create stable, long-lasting wormholes. This limits the distance that can be traveled through a single wormhole to a few light-years.
 
 #### 2776...
 
-With Saian stone as energy source, scientists in **Vita Nova** colonies were able to harness enormous amounts of energy, which in turn allowed them to develop technology for creating stable wormholes. These wormholes were able to connect two points in space, allowing for instantaneous travel. However, due to the large energy requirements, it was only possible to create wormholes that spanned between 15-20 light years.
+With the discovery of the **Saian stone**, a new energy source that provides enormous amounts of energy, scientists in Vita Nova colonies were able to harness enough energy to develop technology for creating stable wormholes. These wormholes were able to connect two points in space, allowing for instantaneous travel, but the large energy requirements meant that it was only possible to create wormholes that spanned between 15-20 light years.
 
 #### 2810...
 
-Advances in **Stargate** technology have given hope of reaching the solar system again. The technology of creating wormholes has advanced to the point where it is now referred to as Stargate technology. This technology allows for instant transportation between two points in space, but the energy required to create long wormholes is still prohibitively high.
+Advances in wormhole technology have given hope of reaching the solar system again. The technology of creating wormholes has advanced to the point where it is now referred to as **Stargate** technology. This technology allows for instant transportation between two points in space, but the energy required to create long wormholes is still prohibitively high. Despite these limitations, the development of Stargates has significantly improved interstellar travel and communication.
 
 #### 2811...
 
-But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
-
-When the humans realized that there was no possibility of reaching the main system, chaos ensued and war broke out between different planets, space stations and hubs of **Asha Galaxy**. 
+But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate. As a result, the humans were unable to reach their home planet and the dream of returning to Earth was crushed. This led to chaos and war broke out between different planets, space stations, and hubs of the **Asha galaxy** as factions fought for control of the limited resources and territory.
 
 #### 3009... or 0...
 
