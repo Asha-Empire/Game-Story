@@ -154,6 +154,18 @@ In 2275, the colonization and terraforming of other worlds in the solar system h
 
 With the developments in fusion engines in the 2300s, with new engines named the **Pusion Engine (Fusion Plus)** the speed of spaceships reached from 11000km/sec to 33000km/sec. The first habitable space station was established near the asteroid belt, as the logistical problems were quickly resolved by the Pusion engine.
 
+#### 2325...
+
+In 2325, the first successful manned mission to an exoplanet was carried out. The UNR-led mission used Pusion Engine technology. It will take years to reach the exoplanet, but the prospect of discovery of new life forms and the potential for new resources have sparked a new wave of exploration and colonization efforts.
+
+#### 2360...
+
+In 2360, the colonization and terraforming of exoplanets had become a reality. The UNR, MUR and other nations have begun to establish permanent settlements on these planets, and the Pusion Engine technology has made it possible for these settlements to be self-sustaining. The focus of these settlements is on resource extraction and scientific research.
+
+#### 2385...
+
+In 2385, the exoplanet colonies had grown to become thriving communities, with a growing population and increasing economic activity. The UNR, MUR and other nations have begun to establish trade routes between the exoplanet colonies and the solar system, which has led to a booming intergalactic economy. The focus of these trade routes is on exchanging resources and technology, and the Pusion Engine technology has made it possible for these trade routes to be efficient and fast. The UNR, MUR and other nations have also begun to establish diplomatic relations with any potential alien civilization they may encounter. The focus of these diplomatic efforts is on peaceful coexistence and cooperation.
+
 #### 2400...
 
 In the 2400s after lots of space outposts, a few space stations and and settlements on some dwarf planets of the asteroid belt, such as **Ceres** and **Vesta** were built, the largest **Space Hub** in the solar system named it **Galilean Hub**, inhabited by a million people, was built near Jupiter. Then were built settlements on Jupiter's moons of **Io**, **Europa**, **Ganymede**, and **Callisto**.
