@@ -266,6 +266,10 @@ In 2768 **Warp Engine** invented. The warp engine depending on the size of the s
 
 The Warp Engine allowed the colonies to move out of the **Vita Nova** system into other systems of the galaxy. This situation posed a problem. They can travel much faster than the speed of light, but when they wanted to communicate with each other, they were able to communicate at a maximum speed of light. This required scientists to focus on this issue.
 
+#### 2769...
+
+In 2769, colonies were established in the systems of the Asha galaxy. For example, the planet Novus in the Viridis system, the planet Tierra in the Patrius system.
+
 #### 2770...
 
 Two years later, in 2770, the **Quantum Particle Network (QPN)** was invented and communication between star systems was easy. Scientists tried to send a message to the solar system, but it didn't help, they probably thought that this technology had not been invented in the solar system yet.
