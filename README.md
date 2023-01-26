@@ -291,13 +291,33 @@ Advances in wormhole technology have given hope of reaching the solar system aga
 
 But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate. As a result, the humans were unable to reach their home planet and the dream of returning to Earth was crushed. This led to chaos and war broke out between different planets, space stations, and hubs of the **Asha galaxy** as factions fought for control of the limited resources and territory.
 
+#### 2825...
+
+The war between the different factions in **Asha galaxy** continued to escalate. As resources became increasingly scarce, many planets, space stations, and hubs were forced to band together for protection and to secure access to resources. These alliances formed the foundation for larger and more powerful factions, which eventually led to the formation of powerful empires.
+
+#### 2900...
+
+In the early 2900s, a powerful warlord by the name of **Walter Friessner** emerged as a leader of one of the strongest factions. He was a descendant of German immigrants who had fled to the **Asha galaxy** in the early days of colonization. He was a brilliant military strategist and was able to unite many of the factions under his leadership.
+
+Walter's empire was known for its powerful military and advanced technology, which allowed him to conquer planet after planet. He was able to defeat his rivals and establish control over **Viridis system**. He then declared himself Emperor of the **Viridis system** and established his capital on the planet **Novus**.
+
+#### 3000...
+
+In the following years, **Emperor Walter** continued to expand the own empire through military conquest and diplomacy. He implemented policies aimed at increasing the power of the central government and suppressing dissent. He also established a powerful intelligence agency to root out potential threats to his rule.
+
+#### 3005...
+
+Despite these measures, the empire faced many challenges, including economic instability and internal conflicts. Nevertheless, the empire managed to survive and continue to expand its territory until 3009, when Emperor Walter established control over the entire Asha galaxy.
+
 #### 3009... or 0...
 
-This war lasted for a very long time and in the end, **Walter Friessner**, the grandsons of former German immigrants, declared himself emperor and conquered planets, stations and star systems one by one, establishing the **Asha Empire**. Although **Emperor Walter** initially wanted to establish a democratic state, but due to rebellions and betrayals he turned into a dictatorial emperor. Also, the emperor introduced the **Asha Empire Credit** (**___AEC___**) currency instead of the USSS dollar.
+This war lasted for a very long time and in the end, **Walter Friessner**, declared himself emperor of the **Asha galaxy** and start to conquered planets, stations and star systems one by one, establishing the **Asha Empire**. As Asha Emperor, **Walter** initially sought to establish a democratic state, but as rebellions and betrayals began to emerge, he turned into a dictatorial emperor. He introduced the **Asha Empire Credit (___AEC___)** currency, which replaced the USSS dollar as the primary currency of the empire.
+
+The center of the **Asha Empire** has been declared by **Emperor Walter** as the planet **Novus** in the **Viridis system**. 
 
 #### 3023... or 14...
 
-The center of the empire has been declared by **Emperor Walter** as the planet **Novus** in the **Viridis system**. Years passed and the year is now 3023, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 14.
+Years passed and the year is now 3023, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 14.
 
 Imperial navy forces have taken control of all settled star systems, planets and stations, but man is going to new systems and they continue to settle on new planets. As long as it did not pose a threat to the Empire, he ceased to control these new star systems and allowed humans to live freely in these systems because the cost of controlling them was too high.
 
