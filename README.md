@@ -136,7 +136,19 @@ In 2200, with the developments in Fusion reactors, they were reduced in size and
 
 Reaching the asteroid belt and starting mining in 2204 was considered a breakthrough for humanity. They were building up space outposts in different places to set up easy supply lines between Earth, Mars and asteroid belt.
 
-However, due to the long travelling times, people could not get out of these regions, space between Earth, Mars and the asteroid belt. They've been content with sending satellites and unmanned spacecraft beyond the asteroid belt.
+However, due to the long travelling times, people could not get out of these regions, space between Earth, Mars and the asteroid belt. They mostly have been content with sending satellites and unmanned spacecraft beyond the asteroid belt.
+
+#### 2225...
+
+In 2225, with the successful mining of resources in the asteroid belt and the establishment of space outposts, the interplanetary economy began to flourish. Private companies and nations competed to extract and trade valuable resources such as water, rare metals, and radioactive materials.
+
+#### 2250...
+
+In 2250, the technology for terraforming planets and moons had advanced significantly. The UNR, MUR and other nations began to explore and colonize other planets and moons in the solar system, such as Venus and the moons of Jupiter and Saturn. The use of the Fusion engine greatly facilitated this expansion as it made travel to these distant worlds much faster and more efficient, but of course this travel speed was not enough.
+
+#### 2275...
+
+In 2275, the colonization and terraforming of other worlds in the solar system had progressed to the point where they were becoming self-sufficient. The UNR, MUR and other nations began to focus on the exploration and colonization of exoplanets. The development of new technologies such as research for faster-than-light travel and advanced artificial intelligence were crucial to this next step in humanity's galaxy expansion. UNR and MUR and some private companies were working hard to get out of the solar system.
 
 #### 2300...
 
