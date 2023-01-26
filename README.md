@@ -186,6 +186,10 @@ Around the year 2450, humanity dispersed to most of the solar system and the Pro
 
 In 2475, the conflicts and political tensions between the various space-faring nations and colonies reached a boiling point, leading to a full-scale intergalactic war. The war was fought primarily over control of resources and territory, as well as ideological differences. The war would be devastating for all involved and last for several decades, with a significant loss of life and resources. The war would also result in the destruction of several colonies and space stations. 
 
+#### 2500...
+
+As UNR is used to being the strongest all the time, the battle doesn't go its way and starts to lose their outposts one by one.
+
 #### 2505...
 
 In 2505, millions of people died in the nuclear attacks on Mars. Attacks on outposts around the Galilean Hub killed thousands of people, and attacks on Earth more than a billion people died. Meanwhile, Jupiter's moon Io was destroyed, and As a result, a very important civilian research laboratory was destroyed by UNR navy forces, along with its scientists and their families.
