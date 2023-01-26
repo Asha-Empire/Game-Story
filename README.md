@@ -174,6 +174,10 @@ In the 2400s after lots of space outposts, a few space stations and and settleme
 
 In 2425, Proxitauri colonies had become a vital part of the intergalactic economy and society. They were not only a source of valuable resources, but also served as research centers for advanced technologies and scientific discoveries. The UNR, MUR and other nations have also established a network of communication and trade routes between the Proxitauri colonies and the solar system, allowing for the exchange of goods, people, and ideas.
 
+#### 2435...
+
+The Proxitauri Republic (PR) was established.
+
 #### 2450...
 
 Around the year 2450, humanity dispersed to most of the solar system and the Proxima Centauri, established different space stations and conquered the solar system and Proxima Centauri with the technologies they reached. However, after the dispersal of humanity in the solar system, some political problems arose and regional conflicts were experienced.
@@ -184,15 +188,15 @@ In 2475, the conflicts and political tensions between the various space-faring n
 
 #### 2505...
 
-In 2505, millions of people died in the nuclear attacks on Mars. Attacks on outposts around the Galilean Hub killed thousands of people, and attacks on Earth more than a billion people died. Meanwhile, Jupiter's moon Io was destroyed, and As a result, a very important civilian research laboratory was destroyed by Earth namvy forces, along with its scientists and their families.
+In 2505, millions of people died in the nuclear attacks on Mars. Attacks on outposts around the Galilean Hub killed thousands of people, and attacks on Earth more than a billion people died. Meanwhile, Jupiter's moon Io was destroyed, and As a result, a very important civilian research laboratory was destroyed by UNR navy forces, along with its scientists and their families.
 
 #### 2512...
 
-After the Io research lab was destroyed, the Galilean Hub and Mars became allies against Earth. Earth began to fight against the entire solar system, one by one it began to lose own space outposts.
+After the Io research lab was destroyed, the Galilean Hub, MUR and PR became allies against Earth. Earth began to fight against the entire solar system and Proxima Centauri, one by one it began to lose own space outposts.
 
 #### 2522...
 
-Earth is almost about to lose the war. Everyone sees this, but they try to endure until the end. They cannot accept Earth's colonies defeating Earth. 
+UNR is almost about to lose the war. Everyone sees this, but they try to endure until the end. They cannot accept Earth's colonies defeating UNR. 
 
 #### 2523...
 
