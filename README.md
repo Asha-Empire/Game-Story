@@ -280,9 +280,15 @@ Quantum Particle Network (QPN) is a technology that uses quantum particles to tr
 
 In 2774, scientists developed the technology to create wormholes. This technology allows for instantaneous travel from one point in space to another. However, the energy requirements to create these wormholes are enormous and it is not currently possible to create stable, long-lasting wormholes.
 
-#### 2811...
+#### 2776...
+
+With Saian stone as energy source, scientists in **Vita Nova** colonies were able to harness enormous amounts of energy, which in turn allowed them to develop technology for creating stable wormholes. These wormholes were able to connect two points in space, allowing for instantaneous travel. However, due to the large energy requirements, it was only possible to create wormholes that spanned between 15-20 light years.
+
+#### 2810...
 
 Advances in **Stargate** technology have given hope of reaching the solar system again. The technology of creating wormholes has advanced to the point where it is now referred to as Stargate technology. This technology allows for instant transportation between two points in space, but the energy required to create long wormholes is still prohibitively high.
+
+#### 2811...
 
 But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
 
