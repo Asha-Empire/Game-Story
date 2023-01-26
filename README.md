@@ -256,6 +256,10 @@ Scientists in all colonies in **Vita Nova** began to work together on very diffe
 
 The search for a way to re-establish contact with Earth continues, but remains elusive.
 
+#### 2725...
+
+The colonies in **Vita Nova** continue to grow and develop, becoming a major player in the galaxy **Asha**. However, the search for a way to re-establish contact with Earth remains a major focus for many scientists and researchers.
+
 #### 2768...
 
 In 2768 **Warp Engine** invented. The warp engine depending on the size of the spaceships allows spaceships to accelerate up to 1500 times the speed of light. The only problem with the warp engine is that it consumes a lot of energy. But the Warp Engine wasn't enough to reach Earth because it doesn't seem possible to get enough energy sources for that to happen.
