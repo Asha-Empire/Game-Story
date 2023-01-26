@@ -268,7 +268,7 @@ The Warp Engine allowed the colonies to move out of the **Vita Nova** system int
 
 #### 2769...
 
-In the year 2769, humanity began establishing colonies in other systems within the Asha galaxy. These colonies were set up on planets such as Novus in the Viridis system and Tierra in the Patrius system. This was made possible by the invention of the warp engine, which allowed spaceships to travel at faster-than-light speeds, enabling the colonization of distant star systems. These colonies served as outposts for humanity, providing new resources and opportunities for growth and expansion.
+In the year 2769, humanity began establishing colonies in other systems within the **Asha galaxy**. These colonies were set up on planets such as **Novus** in the **Viridis system** and **Tierra** planet in the **Patrius system**. This was made possible by the invention of the warp engine, which allowed spaceships to travel at faster-than-light speeds, enabling the colonization of distant star systems. These colonies served as outposts for humanity, providing new resources and opportunities for growth and expansion.
 
 #### 2770...
 
