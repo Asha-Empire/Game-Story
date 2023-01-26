@@ -70,7 +70,7 @@ The MUR government, in collaboration with other nations and private companies, l
 
 #### 2100...
 
-Around 2100, all fission reactors in the Earth replaced with fusion reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to the explosive population growth on Earth, millions of people, with the exception of scientists and soldiers, have succeed to colonize **Mars**.
+By 2100, all fission reactors in the Earth started to replace with fusion reactors, it would take a significant amount of time and resources to replace all existing fission reactors with fusion ones. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to the explosive population growth on Earth, millions of people, with the exception of scientists and soldiers, have succeed to colonize **Mars**.
 
 
 #### 2200...
