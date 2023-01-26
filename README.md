@@ -20,7 +20,7 @@ Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil a
 
 #### 2043...
 
-The first Nuclear Power Plant with a fission reactor began operation on Mars. With the elimination of the energy shortage, more industrial facilities and settlements on Mars accelerated to develop. The **New Eden site** was set up in Mars' Elysium quadrangle as the most popular location.
+The first Nuclear Power Plant with a fission reactor began operation on Mars. With the elimination of the energy shortage, more industrial facilities and settlements on Mars accelerated to develop. The **New Eden site** was set up in Mars' Elysium quadrangle as the most popular location. This site was built using advanced technologies such as 3D printing and Solanium construction materials.
 
 #### 2045...
 
@@ -38,16 +38,33 @@ The first **Fusion reactor** was operated successfully in the Moon. After this s
 
 BioNTech Inc. represent Organ cultivation or regrowth, is a biomass production process to regrow or produce organs that have been damaged in some way by using the patient's DNA.
 
-#### 2070...
+#### 2080...
 
 The first self-sustaining city on Mars, named **New Eden** it was just a site before, was established. This city was built using advanced technologies such as 3D printing and Solanium construction materials. It was powered by a combination of fusion energy, solar power, and nuclear power. The city was designed to be completely self-sufficient, with a closed-loop ecosystem that included food production, waste recycling, and water purification.
 
-#### 2080...
+#### 2095...
+
 The Mars United Republic (MUR) was formed, comprising the Martian colonies, lunar outposts, and the Earth-based companies that supported them. The MUR quickly became a major economic and political power, with a population of over one million people. Since the barriers of religious beliefs on Earth are not on Mars, MUR's advanced technologies and resources have made it a leader in the development and invention of new technologies.
+
+#### 2096...
+
+The MUR government invests heavily in the development of advanced artificial intelligence, leading to the creation of highly advanced AI systems that are able to perform a wide range of tasks, from managing and maintaining the cities' infrastructure to designing and building new technologies.
+
+#### 2097...
+
+The MUR government, in partnership with BioNTech Inc., develops a revolutionary new medical technology called "RegenTech", which is able to regrow and replace damaged or diseased organs using the patient's own DNA. This technology is quickly adopted by hospitals and clinics throughout the MUR, greatly improving the overall health and longevity of the population.
+
+#### 2098...
+
+With the success of RegenTech, the MUR government begins investing heavily in the development of other advanced medical technologies, such as nanotechnology-based treatments and gene editing. The MUR becomes a leader in the field of medicine, attracting top scientists and researchers from all over the world.
+
+#### 2099...
+
+The MUR government, in collaboration with other nations and private companies, launches a massive project to terraform Mars, using advanced technologies such as geoengineering and climate manipulation to turn the red planet into a more Earth-like environment. This project is expected to take several centuries to complete, but it is seen as a necessary step towards making Mars a truly habitable planet
 
 #### 2100...
 
-Around 2100, all fission reactors in the world replaced with fusion reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to the explosive population growth on Earth, millions of people, with the exception of scientists and soldiers, have succeed to colonize **Mars**.
+Around 2100, all fission reactors in the Earth replaced with fusion reactors. On the other hand, after the first fusion reactor set up in the Martian colony, it increased the number of Mars settlers. Due to the explosive population growth on Earth, millions of people, with the exception of scientists and soldiers, have succeed to colonize **Mars**.
 
 
 #### 2200...
