@@ -272,7 +272,7 @@ In the year 2769, humanity began establishing colonies in other systems within t
 
 #### 2770...
 
-Two years later, in 2770, the **Quantum Particle Network (QPN)** was invented and communication between star systems was easy. Scientists tried to send a message to the solar system, but it didn't help, they probably thought that this technology had not been invented in the solar system yet.
+In 2770, the **Quantum Particle Network (QPN)** was invented and communication between star systems was easy. Scientists tried to send a message to the solar system, but it didn't help, they probably thought that this technology had not been invented in the solar system yet.
 
 #### 2811...
 
