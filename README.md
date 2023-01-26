@@ -366,4 +366,20 @@ The empire, under the leadership of **Emperor Walter**, had become a dominant fo
 
 Emperor **Walter Friessner** died in the year 20 at the age of 92. His daughter **Naina Friessner** took the throne as queen.
 
-Long live **Queen Naina**... And game begin.
+Long live **Queen Naina**...
+
+#### 21...
+
+In the year 21, a powerful rebellion emerged in the outer rim of the empire. The rebels, led by a charismatic leader named **Marcus Fulker**, sought to overthrow Queen Naina and establish a democratic government. The rebellion quickly gained momentum and threatened to destabilize the empire.
+
+#### 22...
+
+Queen Naina responded to the rebellion by deploying the imperial navy to crush the uprising. The war was brutal and lasted for several years. The rebels were ultimately defeated and Marcus was captured and executed. However, the cost of the war was high and the empire was left weakened.
+
+#### 26...
+
+In the aftermath of the rebellion, Queen Naina implemented a series of reforms aimed at addressing the issues that had led to the uprising. She established a more representative government and implemented policies to improve the lives of the people in the outer rim. These efforts helped to restore stability to the empire and prevent further rebellions.
+
+#### 30...
+
+With the empire stabilized, Queen Naina was able to focus on expanding the empire's territory and increasing its power. She sent explorers to new star systems in search of new resources and established colonies on new planets to support the growing population. The imperial navy was also strengthened, and new ships and weapons were developed to protect the empire's borders.
