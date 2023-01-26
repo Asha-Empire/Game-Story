@@ -335,9 +335,9 @@ The capital of the Asha Empire was established by Emperor Walter on the planet *
 
 #### 3023... or 14...
 
-Years passed and the year is now 3023, but the emperor declared the reference point of the calendar as the foundation of the empire. And now the year is 14.
+Years have passed and it is now 3023, but **Emperor Walter Friessner** declared the **foundation of the ___Asha Empire___ as the reference point for the calendar**, so the current year is now referred to as 14.
 
-Imperial navy forces have taken control of all settled star systems, planets and stations, but man is going to new systems and they continue to settle on new planets. As long as it did not pose a threat to the Empire, he ceased to control these new star systems and allowed humans to live freely in these systems because the cost of controlling them was too high.
+The Imperial navy forces of the Asha Empire have taken control of all the settled star systems, planets and stations in the Asha galaxy. However, humans continue to explore and settle in new systems and planets. As long as these new settlements do not pose a threat to the empire, the imperial navy has chosen not to exert control over them, as the cost of doing so is deemed too high. Instead, the inhabitants of these new systems are allowed to live freely, as long as they do not challenge the authority of the empire.
 
 #### 20...
 
