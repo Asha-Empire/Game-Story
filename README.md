@@ -244,12 +244,17 @@ Tensions begin to rise as resources on Saiantum become scarce and competition fo
 
 #### 2650...
 
+As the decades pass, the colonies on Saiantum continue to evolve and develop independently of the rest of humanity. The USSS becomes a distant memory and new societies and governments form on the planet. Communication and travel between the different colonies remains difficult, leading to a diverse array of cultures and technologies.
 
 #### 2692...
 
 And then, after 100 years at 2692, the wormhole collapsed, how it was formed. With the collapse of the wormhole, the colonies in **Vita Nova** are effectively cut off from the rest of humanity. The USSS begins to lose control as different factions within the colonies vie for power and resources.
 
 Scientists in all colonies in **Vita Nova** began to work together on very different researches, developments and new inventions in order to communicate and even reach the solar system or Proxima Centauri. But the distance is too long, making this developments almost impossible.
+
+#### 2700...
+
+The search for a way to re-establish contact with Earth continues, but remains elusive.
 
 #### 2768...
 
