@@ -274,6 +274,8 @@ In the year 2769, humanity began establishing colonies in other systems within t
 
 In 2770, the **Quantum Particle Network (QPN)** was invented and communication between star systems was easy. It serves to communicate and transfer data faster than the speed of light with QPN. Scientists tried to send a message to the solar system, but it didn't help, they probably thought that this technology had not been invented in the solar system yet.
 
+Quantum Particle Network (QPN) is a technology that uses quantum particles to transmit information faster than the speed of light. This technology utilizes properties of quantum particles such as superposition and entanglement to transmit data over large distances almost instantaneously. This allows for communication between colonies in different star systems, overcoming the limitation of traditional communication methods that were limited to the speed of light. QPN works are based on principles of quantum physics and information theory, such as quantum teleportation or quantum key distribution.
+
 #### 2811...
 
 Advances in **Stargate** technology have given hope of reaching the solar system again. But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate.
