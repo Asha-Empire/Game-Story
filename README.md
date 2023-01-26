@@ -32,11 +32,18 @@ The mining of resources on the Moon led to a major technological and industrial 
 
 #### 2051...
 
-The first **Fusion reactor** was operated successfully in the Moon. After this success, the construction of the Fusion reactors started in the city of Bushehr on Earth, 600km north of the New Eden site on Mars' Cebrenia quadrangle.
+The first **Fusion reactor** was operated successfully in the Moon. After this success, the construction of the Fusion reactors started in the city of Bushehr on Earth, 600km north of the **New Eden site** on Mars' Cebrenia quadrangle.
 
 #### 2065...
 
 BioNTech Inc. represent Organ cultivation or regrowth, is a biomass production process to regrow or produce organs that have been damaged in some way by using the patient's DNA.
+
+#### 2070...
+
+The first self-sustaining city on Mars, named **New Eden** it was just a site before, was established. This city was built using advanced technologies such as 3D printing and Solanium construction materials. It was powered by a combination of fusion energy, solar power, and nuclear power. The city was designed to be completely self-sufficient, with a closed-loop ecosystem that included food production, waste recycling, and water purification.
+
+#### 2080...
+The Mars United Republic (MUR) was formed, comprising the Martian colonies, lunar outposts, and the Earth-based companies that supported them. The MUR quickly became a major economic and political power, with a population of over one million people. Since the barriers of religious beliefs on Earth are not on Mars, MUR's advanced technologies and resources have made it a leader in the development and invention of new technologies.
 
 #### 2100...
 
