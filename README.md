@@ -178,6 +178,10 @@ In 2425, Proxitauri colonies had become a vital part of the intergalactic econom
 
 Around the year 2450, humanity dispersed to most of the solar system, established different space stations and conquered the solar system with the technologies they reached. However, after the dispersal of humanity in the solar system, some political problems arose and regional conflicts were experienced.
 
+#### 2475...
+
+In 2475, the conflicts and political tensions between the various space-faring nations and colonies reached a boiling point, leading to a full-scale intergalactic war. The war was fought primarily over control of resources and territory, as well as ideological differences. The war would be devastating for all involved and last for several decades, with a significant loss of life and resources. The war would also result in the destruction of several colonies and space stations. 
+
 #### 2505...
 
 In 2505, millions of people died in the nuclear attacks on Mars. Attacks on outposts around the Galilean Hub killed thousands of people, and attacks on Earth more than a billion people died. Meanwhile, Jupiter's moon Io was destroyed, and As a result, a very important civilian research laboratory was destroyed by Earth namvy forces, along with its scientists and their families.
