@@ -208,7 +208,7 @@ After major losses on Earth in recent years, Clonex Corp. presented the use of c
 
 #### 2550...
 
-After all this turmoil and conflicts, in 2550, the people of the solar system formed a union and decided to establish a central government. The earth-centered government, made up of people spread over the solar system, was called the **Solar System United States (USSS)**.
+After all this turmoil and conflicts, in 2550, the people of the solar system formed a union and decided to establish a central government. The earth-centered government, made up of people spread over the solar system, was called the **United States of Solar System (USSS)**.
 
 #### 2551...
 
@@ -216,7 +216,7 @@ Peace was signed between the USSS and PR and it was agreed to cooperate in diffe
 
 #### 2576...
 
-But everything changed In 2576 with the discovery of a natural wormhole that appeared near the dwarf planet **Orcus**. Because of no settlement on the dwarf planet **Orcus**, they initially thought the determined wormhole was a reflection of the planet's moon **Vanth**, but when a explorer drones revealed the truths, the **USSS** navy has been protected the wormhole and wouldn't let anyone get close.
+In 2576, a historic event took place when a natural wormhole was discovered near the dwarf planet **Orcus**. The United States of Solar System (USSS) navy was quick to protect the wormhole and prevent anyone from getting close. At first, because of no settlement on the dwarf planet **Orcus**, the scientists thought that the wormhole was a reflection of the planet's moon **Vanth**, but as the exploration drones revealed the truth, it became clear that the wormhole was something much more significant, the **USSS** navy has been protected the wormhole and wouldn't let anyone get close.
 
 #### 2580...
 
