@@ -1,4 +1,4 @@
-# Game Story
+# The Millennial Roadmap
 
 The Millennial Roadmap is a timeline of events leading up to the year 3039, the setting of science fiction game. Spanning almost a thousand years from the present day, this roadmap sets the stage for the story and world of the game. The focal point of the timeline is the reign of Queen Naina, who comes to the throne in the Asha Empire in the year 3029. After 10 years of this event marks the beginning of the game, and sets the stage for the story and conflicts that will unfold within the Asha Empire and beyond.
 
