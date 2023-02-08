@@ -298,12 +298,15 @@ The war between the different factions in **Asha galaxy** continued to escalate.
 #### 2835...
 The planet of **Helios**, known for its rich mineral resources, was a key target for many of the factions. A fierce battle ensued as both the **Sanaturnian Alliance** and the **Hovian Confederation** fought for control of the planet. The Sanaturnians, with their advanced technology and superior numbers, were able to gain the upper hand and ultimately defeated the Hovians, securing control of Helios for themselves.
 
-#### 2850...
+#### 2937...
+**Walter Friessner** was born.
+
+#### 2958...
 The planet of **Polaris**, located in the **New Andromeda system**, was home to a powerful faction known as the **Polaris Confederation**. They had a well-trained and equipped military, as well as advanced technology and resources. A warlord by the name of **Walter Friessner** saw them as a major threat to his system **Viridis system** and launched a massive invasion to conquer the planet. The battle was brutal and lasted for several months, but ultimately, Walter emerged victorious and the Polaris Confederation was dissolved.
 
 #### 2962...
 
-In the early 2900s, a powerful warlord by the name of **Walter Friessner** emerged as a leader of one of the strongest factions. He was a descendant of German immigrants who had fled to the **Asha galaxy** in the early days of colonization. He was a brilliant military strategist and was able to unite many of the factions under his leadership.
+In the early 2962, a powerful warlord by the name of **Walter Friessner** emerged as a leader of one of the strongest factions. He was a descendant of German immigrants who had fled to the **Asha galaxy** in the early days of colonization. He was a brilliant military strategist and was able to unite many of the factions under his leadership.
 
 Walter's empire was known for its powerful military and advanced technology, which allowed him to conquer planet after planet. He was able to defeat his rivals and establish control over **Viridis system**. He then declared himself Emperor of the **Viridis system** and established his capital on the planet **Novus**.
 
