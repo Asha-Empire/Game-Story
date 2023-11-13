@@ -254,7 +254,7 @@ Scientists in all colonies in **Vita Nova** began to work together on very diffe
 
 #### 2700...
 
-the desperate search to re-establish contact with *Earth* persisted, but success remained elusive. *Scientists* from all colonies in **Vita Nova**, embarking on diverse research endeavors, developments, and groundbreaking inventions, all in pursuit of the dream to communicate or even reach the distant *solar system* or *Proxima Centauri*. However, the staggering cosmic distances proved to be an almost insurmountable obstacle, casting a shadow of frustration on their endeavors.
+The desperate search to re-establish contact with *Earth* persisted, but success remained elusive. *Scientists* from all colonies in **Vita Nova**, embarking on diverse research endeavors, developments, and groundbreaking inventions, all in pursuit of the dream to communicate or even reach the distant *solar system* or *Proxima Centauri*. However, the staggering cosmic distances proved to be an almost insurmountable obstacle, casting a shadow of frustration on their endeavors.
 
 #### 2725...
 
