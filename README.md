@@ -248,17 +248,17 @@ As the decades pass, the colonies on Saiantum continue to evolve and develop ind
 
 #### 2692...
 
-And then, after 100 years at 2692, the wormhole collapsed, how it was formed. With the collapse of the wormhole, the colonies in **Vita Nova** are effectively cut off from the rest of humanity. The USSS begins to lose control as different factions within the colonies vie for power and resources.
+And then, after 100 years at 2692, *the wormhole* collapsed, how it was formed. With the collapse of the wormhole, the colonies in **Vita Nova** are effectively cut off from the rest of humanity. **The USSS** began to lose control as different factions within the colonies vied for power and resources.
 
 Scientists in all colonies in **Vita Nova** began to work together on very different researches, developments and new inventions in order to communicate and even reach the solar system or Proxima Centauri. But the distance is too long, making this developments almost impossible.
 
 #### 2700...
 
-The search for a way to re-establish contact with Earth continues, but remains elusive.
+the desperate search to re-establish contact with *Earth* persisted, but success remained elusive. *Scientists* from all colonies in **Vita Nova**, embarking on diverse research endeavors, developments, and groundbreaking inventions, all in pursuit of the dream to communicate or even reach the distant *solar system* or *Proxima Centauri*. However, the staggering cosmic distances proved to be an almost insurmountable obstacle, casting a shadow of frustration on their endeavors.
 
 #### 2725...
 
-The colonies in **Vita Nova** continue to grow and develop, becoming a major player in the galaxy **Asha**. However, the search for a way to re-establish contact with Earth remains a major focus for many scientists and researchers.
+The colonies in **Vita Nova** had undergone significant growth and development, solidifying their status as major players in **the Asha galaxy**. Yet, the quest to re-establish contact with Earth remained a paramount goal for countless scientists and researchers, driving their relentless pursuit of a solution amidst the vastness of space.
 
 #### 2768...
 
