@@ -558,6 +558,24 @@ Queen Naina responded to the rebellion by deploying the imperial navy to crush t
 
 In the aftermath of the rebellion, Queen Naina implemented a series of reforms aimed at addressing the issues that had led to the uprising. She established a more representative government and implemented policies to improve the lives of the people in the outer rim. These efforts helped to restore stability to the empire and prevent further rebellions.
 
+### 3037... or 28...
+
+*Rebels Ignite the Nirsh Uprising*   
+The **Free Nirsh Army** overruns the industrial fortress on **Sirina**—a moon of Mikapis and linchpin of naval R-&-D.  Imperial command orders an emergency scuttle, then realises classified vaults were left behind.  
+* Two special-operations officers—**Cmdr Rexis** and **Cmdr Kyra**—lead a last-minute infil dubbed *Exodus Protocol* to retrieve the data.  
+* While they fight through mutant test subjects and rebel marines, the lone frigate **VDS *Last Light*** enters bombardment stack, ready to vaporise the base rather than let it fall.  
+* Their narrow extraction becomes legend and later inspiration for the immersive sim *Asha Empire: Exodus*.
+
+### 3038... or 29...
+
+*Queen Naina’s Counter-offensive*   
+Angered by the loss of Sirina and armed with the intel salvaged during Exodus, **Queen Naina** launches a three-front blitz against the Free Nirsh Army.  
+* Precision warp-in strikes sever rebel logistics; Saian-cored siege drivers crack the Nirsh flagship yards in six hours.  
+* The Nirsh government capitulates on **14·05 3038**; surviving insurgent cells scatter into the outer belt.  
+* Reconstruction of **Fort Sirina** begins immediately, now ringed by Tenebris Corps garrisons and a classified Omega-grade deterrence vault.
+
+These victories cement Naina’s reputation as *“the Shield of Asha”* and close the first major rebellion of her reign—though at the cost of deep-seated resentment that will resurface in later cycles.
+
 ### 3034... or 30...
 
 With the empire stabilized, Queen Naina was able to focus on expanding the empire's territory and increasing its power. She sent explorers to new star systems in search of new resources and established colonies on new planets to support the growing population. The imperial navy was also strengthened, and new ships and weapons were developed to protect the empire's borders.
