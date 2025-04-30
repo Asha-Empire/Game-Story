@@ -305,6 +305,7 @@ Quantum Particle Network (QPN) is a technology that uses quantum particles to tr
 In 2771, humanity continued to colonize new systems in the **Asha galaxy**, including the planet **Reliqua** in the **Aethelgard system**, **Fracture Point** and **Abyssal Maw** in the **Rift Valley system**, and **Helios** in the **Oracle's Eye system**.
 
 #### 2774...
+
 In 2774, scientists in the Vita Nova colonies developed a breakthrough technology for creating wormholes (**Micro–Einstein-Rosen Stabiliser**). This technology allows for instantaneous travel from one point in space to another, eliminating the need for long and dangerous interstellar journeys. However, the energy requirements to create these wormholes are enormous, and it is not currently possible to create stable, long-lasting wormholes. This limits the distance that can be traveled through a single wormhole to a few light-years. Vita Nova physicists pin a wormhole throat for **≈ 30 minutes**, safe for freight shuttles up to 5 kt. Range remains limited to **3–5 ly**; any longer collapses the mouth before transit can complete.
 
 #### 2776...
@@ -322,22 +323,66 @@ As a result, the humans were unable to reach their home planet and the dream of 
 
 #### 2825...
 
-The war between the different factions in **Asha galaxy** continued to escalate. As resources became increasingly scarce, many planets, space stations, and hubs were forced to band together for protection and to secure access to resources. These alliances formed the foundation for larger and more powerful factions, which eventually led to the formation of powerful empires.
+As the “road home” closed, the war between the different factions in **Asha galaxy** continued to escalate. **local shortages snow-balled into open conflict**, as resources became increasingly scarce, many small worlds, stations, and free-ports fused into ad-hoc trade syndicates for mutual defense; over the next decade these syndicates crystalised into three super-blocs: the **Sanaturnian League**, the **Hovian Confederation**, and the **Outer Rim Freeholds**.
 
 #### 2835...
-The planet of **Helios**, known for its rich mineral resources, was a key target for many of the factions. A fierce battle ensued as both the **Sanaturnian Alliance** and the **Hovian Confederation** fought for control of the planet. The Sanaturnians, with their advanced technology and superior numbers, were able to gain the upper hand and ultimately defeated the Hovians, securing control of Helios for themselves.
+
+The League and Confederation clashed over **Helios**, a mineral-rich world whose orbital ring could re-arm fleets in weeks, not months. A fierce battle ensued as both the **Sanaturnian Alliance** and the **Hovian Confederation** fought for control of the planet. The Sanaturnians, with their advanced technology and superior numbers, were able to gain the upper hand and ultimately defeated the Hovians, securing control of Helios for themselves. After a seven-month orbital siege and two surface landings, **Sanaturnian assault carriers cracked Hovian lines** and claimed the planet, marking the first decisive victory of the Resource Wars.
 
 #### 2937...
-**Walter Friessner** was born.
+
+Walter Friessner, future architect of the Asha Empire, was born on **Novus, Viridis System**, to a family of frontier miners who traced their roots to 21st-century Germany.
+
+#### 2945... 
+
+In **2945**, the tranquil farm-estate of the Friessner family—nestled in the emerald lowlands of **Novus**, a planet renowned for its rich, volcanic soils—was shattered by a raiding band from beyond the system. Drawn by rumors of hidden vaults and bumper harvests, the marauders looted the property and **slaughtered every inhabitant except one**: eight-year-old **Walter Friessner**.  
+
+Though the Friessners were among Novus’s wealthiest landowners—his grandparents had funneled fortunes from off-world mining strikes into vast, high-yield agro-colonies—wealth could not shield the child from sudden orphanhood. When an Imperial patrol finally responded, **Commissioner Auron Vale**, commander of the local garrison, took pity on the silent, steel-eyed boy. Vale adopted Walter as his own and, seeing an uncanny poise in the child, **raised him inside the precinct barracks rather than a boarding school**.  
+
+From that day forward, Walter’s playgrounds were live-fire ranges and tactical simulators. He absorbed marksmanship, logistics, and small-unit doctrine alongside career soldiers twice, thrice and even quadruple his age. Veterans noted that he improvised under pressure with an agility many officers never mastered. **“He thinks like a wolf who remembers the night hunters came,”** Vale remarked. By adolescence Walter could strip a plasma carbine blindfolded and recite three centuries of military strategy; by seventeen he was leading live exercises for recruits.  
+
+The boy who once wandered alone through smoldering orchards was now a prodigy forged by grief, discipline, and the fertile camaraderie of Novus’s finest fighters.  
 
 #### 2958...
-The planet of **Polaris**, located in the **New Andromeda system**, was home to a powerful faction known as the **Polaris Confederation**. They had a well-trained and equipped military, as well as advanced technology and resources. A warlord by the name of **Walter Friessner** saw them as a major threat to his system **Viridis system** and launched a massive invasion to conquer the planet. The battle was brutal and lasted for several months, but ultimately, Walter emerged victorious and the Polaris Confederation was dissolved.
+
+The **Polaris Confederation**, anchored on the mineral-rich world of Polaris in the **New Andromeda system**, fielded one of the sector’s most sophisticated militaries: titanium-mesh orbital citadels, disciplined ground legions, and cruisers armed with Sanaturnian rail-guns. Its admirals had begun extracting punitive tariffs from every freighter that skirted their space lanes—an implicit threat to **Viridis**, now under the stewardship of twenty-one-year-old **Walter Friessner**.  
+
+Walter’s decision to strike first was rooted in childhood memory: *if you wait, predators choose the hour*. Drawing on tactics honed since the raid that orphaned him, he refused a frontal confrontation and instead designed **a war of systematic attrition**:  
+
+* **Economic Strangulation** – Commerce-lane ambushes crippled Polaris ore convoys, starving their fusion reactors of tritium and forcing rationing across the fleet.  
+* **Deep Sabotage** – Covert agents—many former farmhands who had followed Walter from Novus—detonated chrono-shaped charges inside two orbital dry-docks, delaying dreadnought refits by months.  
+* **Psychological Feints** – He broadcast false intelligence of a plague on Novus, luring Polaris medical transports into empty space while his corsairs struck undefended fuel depots.  
+* **Kill-Box at Osiris Ridge** – Feigning retreat, Walter drew the main Confederation armada into a dust-cloud gauntlet where stolen rail-guns (mounted on agile corvettes) punched through capital-ship reactors at extreme range.  
+
+By the time Viridian ground units executed a precision drop on Polaris City, defenders were short on munitions and morale. **Eleven weeks** of brutal street-to-street combat ended with the **unconditional surrender of the Polaris High Council**.  
+
+Friessner’s victory stemmed not from superior numbers—he never possessed them—but from the cold calculus learned since age eight: *wound the enemy everywhere, then decide the battle on your terms.* The spoils were immense: Polaris shipyards, Solanium stockpiles, and thousands of seasoned technicians were folded into Viridis. Senate archives record that, on the surrender’s eve, Commissioner Vale—now Marshal Vale—saluted his former ward and said, **“The boy has become the storm that ends storms.”**  
+
+Thus, in 2958, the prodigy orphan ascended from sector general to unquestioned **Warlord of Viridis**, setting the stage for the dominion—and later the empire—that would reshape the stars.
 
 #### 2962...
 
-In the early 2962, a powerful warlord by the name of **Walter Friessner** emerged as a leader of one of the strongest factions. He was a descendant of German immigrants who had fled to the **Asha galaxy** in the early days of colonization. He was a brilliant military strategist and was able to unite many of the factions under his leadership.
+Four years after breaking the Polaris Confederation, **Walter Friessner** stood before a throng of soldiers, refugees, and envoys on the plaza of **Fort Aurelius**—a newly raised bastion that overlooked the fertile patchwork of Novus lowlands. There, beneath banners sewn from captured Polaris silk, he announced the birth of **the Viridis Dominion**.
 
-Walter's empire was known for its powerful military and advanced technology, which allowed him to conquer planet after planet. He was able to defeat his rivals and establish control over **Viridis system**. He then declared himself Emperor of the **Viridis system** and established his capital on the planet **Novus**.
+Friessner’s first decree fused conquest with concession. Each world that had bled alongside him—Novus, Polaris, Cephei’s mining colonies, and half a dozen rimward stations—was granted a seat in a **Conclave of Governors**. Representation was strictly conditional: governors swore fealty, paid a fixed tithe in Solanium or grain, and pledged troops to the Dominion reserve. In return they kept internal laws, adjudicated local disputes, and enjoyed guaranteed access to the vast **Polaris shipyards**, now beating like industrial hearts for Viridis alone.
+
+To cement legitimacy among civilians traumatized by years of raiding, Walter commissioned the **ReFounder’s Charter**. The charter promised three core rights to all loyal citizens:
+
+1. **The Grain Pledge** – No Dominion child would go hungry so long as Novus’ soil remained fertile.  
+2. **The Shield Pledge** – Orbital defense grids, once jealously hoarded by planetary elites, would be extended to every member world.  
+3. **The Voice Pledge** – Worlds that met logistical quotas could introduce legislation to the Conclave—though Friessner retained veto power “until the frontier is secure.”
+
+Simultaneously, Friessner restructured the military into a tiered system:
+
+* **Legions** – Professional core units drawn from battle-hardened veterans, outfitted with Polaris rail-rifles and powered exos, commanded directly by the Warlord’s general staff.  
+* **Provincial Cohorts** – Planetary militias trained by legion advisers, obligated to rotate two cohorts a year into active frontier duty.  
+* **The Skyward Fleet** – An ever-expanding armada built in the reclaimed Polaris orbital rings, its hulls stamped with a coiled-wolf sigil that evoked both Novus heritage and Friessner’s childhood ghosts.
+
+Economically, Friessner established the **Dominion Exchange Credit (DXC)**—a promissory script backed by Solanium reserves and distributed through mobile mint ships. By stabilizing prices between agrarian Novus and the industrial poles of New Andromeda, the DXC choked the black-market barons that had flourished in wartime scarcity.
+
+But diplomacy did not end bloodshed. Fringe factions—small pirate clans, holdout Hovian privateers, and sectarian zealots from the Osiris Nebula—refused the Charter. Friessner alternated between summit tables and kinetic strikes: when talks failed, targeted dropship assaults decapitated leadership before full rebellions could metastasize.
+
+Within a single standard year the Dominion stretched across eight systems and more than forty inhabited stations. Chroniclers later observed that **2962** marked the moment Walter shifted from brilliant tactician to visionary state-builder: by binding survival, prosperity, and ambition to a common banner, he transformed disparate survivors of a shattered sector into **a disciplined, expansion-hungry polity**—one poised to cast its shadow far beyond the green fields of Novus.
 
 #### 2972...
 The empire faced a major rebellion on the planet of **Arcturus**, located in the **Cygnus system**. The inhabitants of **Arcturus**, known as the **Arcturans**, had grown discontent with the empire's rule and had begun to organize a resistance movement. Emperor Walter was able to suppress the rebellion with the help of his loyal troops, but it resulted in heavy losses on both sides.
@@ -412,6 +457,6 @@ Queen Naina responded to the rebellion by deploying the imperial navy to crush t
 
 In the aftermath of the rebellion, Queen Naina implemented a series of reforms aimed at addressing the issues that had led to the uprising. She established a more representative government and implemented policies to improve the lives of the people in the outer rim. These efforts helped to restore stability to the empire and prevent further rebellions.
 
-#### 3034... or 30...
+### 3034... or 30...
 
 With the empire stabilized, Queen Naina was able to focus on expanding the empire's territory and increasing its power. She sent explorers to new star systems in search of new resources and established colonies on new planets to support the growing population. The imperial navy was also strengthened, and new ships and weapons were developed to protect the empire's borders.
