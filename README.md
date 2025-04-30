@@ -316,13 +316,22 @@ In the year 2769, humanity began establishing colonies in other systems within t
 
 ### 2770...
 
-In 2770, the **Quantum Particle Network (QPN)** was invented and communication between star systems was easy. It serves to communicate and transfer data faster than the speed of light with QPN. Scientists tried to send a message to the solar system, but it didn't help, they probably thought that this technology had not been invented in the solar system yet.
+The Warp-age boom exposed a crippling bottleneck: radio and tight-beam lasers still crawled along at lightspeed.  
+A Vita Nova consortium led by **Dr Amelia Hale** (quantum-field physicist) and **Dr Benjamin Reyes** (information theorist) set out to shatter that limit.  
+After two years of entanglement-lattice experiments—powered by Saian super-capacitors for femtosecond pulse stability—the team unveiled the **Quantum Particle Network (QPN)**:  
 
-Quantum Particle Network (QPN) is a technology that uses quantum particles to transmit information faster than the speed of light. This technology utilizes properties of quantum particles such as superposition and entanglement to transmit data over large distances almost instantaneously. This allows for communication between colonies in different star systems, overcoming the limitation of traditional communication methods that were limited to the speed of light. QPN works are based on principles of quantum physics and information theory, such as quantum teleportation or quantum key distribution.
+* Utilises *pair-chained Saian-doped qubits* to maintain long-life entanglement even under Warp-bubble shear.  
+* Achieves practical data rates of 4 kb s-¹ across 12 pc test spans; later revisions top 40 kb s-¹ inter-sector.  
+* Requires twin **Q-Relay** stations (each the size of a frigate reactor core) to anchor channels; Vita Nova and Saiantum host the first pair.
 
 ### 2771...
 
 In 2771, humanity continued to colonize new systems in the **Asha galaxy**, including the planet **Reliqua** in the **Aethelgard system**, **Fracture Point** and **Abyssal Maw** in the **Rift Valley system**, and **Helios** in the **Oracle's Eye system**.
+
+### 2772...
+
+The Conclave funds a “Spiral-Net” of 18 Q-Relays threading the colonised arm.  For the first time, Novus governors receive status pings from Cygnus and Patrius *instantaneously*.  
+Merchants nickname the system “*HaleMail*,” while naval strategists quietly integrate QPN bursts into fleet tacnets.
 
 ### 2774...
 
