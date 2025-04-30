@@ -32,12 +32,12 @@ The mining of resources on the Moon led to a major technological and industrial 
 
 #### 2051...
 
-**Construction of the first commercial fusion-power complexes began *simultaneously* on two worlds.**
+Following the successful demonstration of fusion physics by the Luna prototype in 2036, humanity embarked on constructing the first commercial-scale fusion power complexes in 2051. This ambitious undertaking commenced simultaneously on two worlds:
 
-• **Bushehr, Earth** – a coastal site chosen for its existing nuclear-engineering workforce and seawater coolant supply.  
-• **New Eden Outskirts, Cebrenia Quadrangle, Mars** – built in tandem to support the rapidly-growing Martian industries. 
+* **Bushehr, Earth:** Chosen to capitalize on the region's skilled nuclear workforce and its coastal position for seawater coolant.
+* **New Eden Outskirts, Cebrenia Quadrangle, Mars:** Strategically placed to fuel the rapidly expanding industries on the red planet, built in tandem with the Earth facility.
 
-The Luna prototype had proven the physics in 2036; 2051 marks the ground-breaking of full-scale reactors, not their activation. When the twin plants ignite (projected 2056), they will give both planets abundance-level energy and unlock the Solanium-based high-temperature metallurgy required for deep-space engines.
+While the foundational physics were proven in 2036, the year 2051 marks the ground-breaking for these full-scale reactors, not their activation. The twin plants are projected for ignition in 2056. Their activation promises a transformative future: providing both Earth and Mars with abundance-level energy and unlocking the crucial Solanium-based high-temperature metallurgy required to forge the engines for humanity's expansion into deep space.
 
 #### 2065...
 
