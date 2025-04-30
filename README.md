@@ -576,6 +576,6 @@ Angered by the loss of Sirina and armed with the intel salvaged during Exodus, *
 
 These victories cement Naina’s reputation as *“the Shield of Asha”* and close the first major rebellion of her reign—though at the cost of deep-seated resentment that will resurface in later cycles.
 
-### 3034... or 30...
+### 3039... or 30...
 
 With the empire stabilized, Queen Naina was able to focus on expanding the empire's territory and increasing its power. She sent explorers to new star systems in search of new resources and established colonies on new planets to support the growing population. The imperial navy was also strengthened, and new ships and weapons were developed to protect the empire's borders.
