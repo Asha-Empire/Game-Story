@@ -512,11 +512,26 @@ While pregnant with a second child, Mia leads an anti-pirate sweep on Somaia (Ga
 
 Trade boomed, but so did **hyper-inflation** in warp maintenance and Saian mining. Frontier prefectures suffered **“echo shortages”**—supply lags caused by warp-corridor refits and piracy. Friessner responded with the **Shield-Coin Act**, issuing parametric smart tokens that doubled as tamper-proof freight manifests. Piracy profits crashed overnight because stolen cargo could no longer be fenced without the matching token. The act stabilised prices but required deep Dominion surveillance of commerce, planting early seeds of the security state that Queen Naina would later inherit.  
 
+### 3007...
+
+Over two centuries after Saiantum’s Mining Charter, its eastern littoral hosts the neon-shrouded freeport **Nebula Nook City**—equal parts refit yard, contraband souk and pirate refuge.  
+* A cyber-smuggler called **Mara** barters military firmware on its back-alleys.  
+* She stumbles into a cloaked cell planning to eject the palace tax-men and declare Saiantum neutral.  
+* On 18·11 3007 the rebels breach the Imperial garrison’s Q-relay; Mara’s bionic eye overclocks the console, dropping city-wide shields and handing victory to the insurgents.  
+
+The assault becomes legend among anti-imperial circles as **“The Spark in the Cove.”**
+
 ### 3008...
 
 Walter, raises **Naina** and **Nicky** inside the palace war college. Both girls study diplomacy, Saian physics and live-fire tactics alongside cadets:
 * **Naina** shows a gift for operational maths;  
 * **Nicky** gravitates to code-breaking and foreign-service languages.
+
+Emperor Walter dispatches the **Nova Legion** with strict rules: reclaim the quarries but minimise civilian deaths lest Saian supply chains collapse.  
+* After a two-week urban siege, Legion marines retake the relay tower; Mara escapes into the sub-ocean mag-tunnels.  
+* Walter classifies the after-action file *Saiantum Protocol*, citing it at court as proof that Shield-Coin surveillance needs “human sensors, not just tokens.”  
+
+Nebula Nook City is allowed to reopen under a tighter customs grid—yet its alley murals of a violet-eyed hacker sow rebellious romanticism that will echo into the Fulker era.
 
 ### 3009... or 0...
 
