@@ -32,7 +32,10 @@ The mining of resources on the Moon led to a major technological and industrial 
 
 #### 2051...
 
-The first **Fusion reactor** was operated successfully in the Moon. After this success, the construction of the Fusion reactors started in the city of Bushehr on Earth, 600km north of the **New Eden site** on Mars' Cebrenia quadrangle.
+**Construction of the first commercial fusion-power complexes began *simultaneously* on two worlds.** 
+• **Bushehr, Earth** – a coastal site chosen for its existing nuclear-engineering workforce and seawater coolant supply.  
+• **New Eden Outskirts, Cebrenia Quadrangle, Mars** – built in tandem to support the rapidly-growing Martian industries. 
+The Luna prototype had proven the physics in 2036; 2051 marks the ground-breaking of full-scale reactors, not their activation. When the twin plants ignite (projected 2056), they will give both planets abundance-level energy and unlock the Solanium-based high-temperature metallurgy required for deep-space engines.
 
 #### 2065...
 
@@ -152,7 +155,9 @@ In 2275, the colonization and terraforming of other worlds in the solar system h
 
 #### 2300...
 
-With the developments in fusion engines in the 2300s, with new engines named the **Pusion Engine (Fusion Plus)** the speed of spaceships reached from 11000km/sec to 33000km/sec. The first habitable space station was established near the asteroid belt, as the logistical problems were quickly resolved by the Pusion engine.
+**The “Pusion” Engine ( *Fusion-Plus* ) enters service.** 
+An aneutronic fusion core, doped with Solanium catalysts, triples cruise velocity from **11 000 km s⁻¹ (≈ 3.7 % c)** to **33 000 km s⁻¹ (≈ 11 % c)**. The name comes from *Fusion +* → *Fu-*+*-sion* → **Pu-sion**.
+Pusion drives slash interplanetary transfer times to weeks and make the first *crew-rated* Proxima missions feasible.
 
 #### 2325...
 
@@ -214,6 +219,11 @@ After all this turmoil and conflicts, in 2550, the people of the solar system fo
 
 Peace was signed between the USSS and PR and it was agreed to cooperate in different fields.
 
+#### 2555...
+
+**Slipstream Field Drives** are flight-tested.
+By shearing local spacetime a few femtoseconds “out of phase,” a Pusion cruiser can momentarily exceed 0.2 c without lethal inertial stresses. The technology is temperamental, but it lays the theoretical groundwork for the later Warp Engine’s metric-bubble approach.
+
 #### 2576...
 
 In 2576, a historic event took place when a natural wormhole was discovered near the dwarf planet **Orcus**. The United States of Solar System (USSS) navy was quick to protect the wormhole and prevent anyone from getting close. At first, because of no settlement on the dwarf planet **Orcus**, the scientists thought that the wormhole was a reflection of the planet's moon **Vanth**, but as the exploration drones revealed the truth, it became clear that the wormhole was something much more significant, the **USSS** navy has been protected the wormhole and wouldn't let anyone get close.
@@ -260,6 +270,10 @@ The desperate search to re-establish contact with *Earth* persisted, but success
 
 The colonies in **Vita Nova** had undergone significant growth and development, solidifying their status as major players in **the Asha galaxy**. Yet, the quest to re-establish contact with Earth remained a paramount goal for countless scientists and researchers, driving their relentless pursuit of a solution amidst the vastness of space.
 
+#### 2755...
+
+**Warp Engine** prototype succeeds after two centuries of Slipstream & Saian-reactor research. Generates a controlled Alcubierre bubble, pushing a 400-m frigate to **20 c** for short hops.
+
 #### 2768...
 
 In 2768 **Warp Engine** invented. The warp engine depending on the size of the spaceships allows spaceships to accelerate up to 1500 times the speed of light. The only problem with the warp engine is that it consumes a lot of energy. But the Warp Engine wasn't enough to reach Earth because it doesn't seem possible to get enough energy sources for that to happen.
@@ -277,7 +291,7 @@ In 2770, the **Quantum Particle Network (QPN)** was invented and communication b
 Quantum Particle Network (QPN) is a technology that uses quantum particles to transmit information faster than the speed of light. This technology utilizes properties of quantum particles such as superposition and entanglement to transmit data over large distances almost instantaneously. This allows for communication between colonies in different star systems, overcoming the limitation of traditional communication methods that were limited to the speed of light. QPN works are based on principles of quantum physics and information theory, such as quantum teleportation or quantum key distribution.
 
 #### 2774...
-In 2774, scientists in the Vita Nova colonies developed a breakthrough technology for creating wormholes. This technology allows for instantaneous travel from one point in space to another, eliminating the need for long and dangerous interstellar journeys. However, the energy requirements to create these wormholes are enormous, and it is not currently possible to create stable, long-lasting wormholes. This limits the distance that can be traveled through a single wormhole to a few light-years.
+In 2774, scientists in the Vita Nova colonies developed a breakthrough technology for creating wormholes (**Micro–Einstein-Rosen Stabiliser**). This technology allows for instantaneous travel from one point in space to another, eliminating the need for long and dangerous interstellar journeys. However, the energy requirements to create these wormholes are enormous, and it is not currently possible to create stable, long-lasting wormholes. This limits the distance that can be traveled through a single wormhole to a few light-years. Vita Nova physicists pin a wormhole throat for **≈ 30 minutes**, safe for freight shuttles up to 5 kt. Range remains limited to **3–5 ly**; any longer collapses the mouth before transit can complete.
 
 #### 2776...
 
@@ -289,7 +303,8 @@ Advances in wormhole technology have given hope of reaching the solar system aga
 
 #### 2811...
 
-But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate. As a result, the humans were unable to reach their home planet and the dream of returning to Earth was crushed. This led to chaos and war broke out between different planets, space stations, and hubs of the **Asha galaxy** as factions fought for control of the limited resources and territory.
+**First Stargate Pair completed (Vita Nova ↔ Helios, 18 ly).** But the situation changed after the first Stargate was built in 2811. It turned out that it was impossible to build Stargates all the way to the Solar System, or even any star system down of the Milky Way, because Stargates were too costly to build and operate. The project proves stable links up to **20 ly** are economically viable, but shows energy demand rises *exponentially* beyond that. Building a chain all the way back to the Milky Way would require more Saian power than the entire Asha galaxy can deliver.
+As a result, the humans were unable to reach their home planet and the dream of returning to Earth was crushed. This led to chaos and war broke out between different planets, space stations, and hubs of the **Asha galaxy** as factions fought for control of the limited resources and territory. Building a chain all the way back to the Milky Way would require more Saian power than the entire Asha galaxy can deliver. With the “road home” closed, political unity fractures and the Century of Resource Wars begins.
 
 #### 2825...
 
@@ -342,47 +357,47 @@ Years have passed and it is now 3023, but **Emperor Walter Friessner** declared 
 
 The Imperial navy forces of the Asha Empire have taken control of all the settled star systems, planets and stations in the Asha galaxy. However, humans continue to explore and settle in new systems and planets. As long as these new settlements do not pose a threat to the empire, the imperial navy has chosen not to exert control over them, as the cost of doing so is deemed too high. Instead, the inhabitants of these new systems are allowed to live freely, as long as they do not challenge the authority of the empire.
 
-#### 15...
+#### 3024... or 15...
 This decision has proven to be a wise one, as many of these new systems have begun to flourish under the autonomy and self-governance. Trade and commerce have flourished between these systems and the Empire, and many have even begun to pay tribute to the Empire in exchange for protection and support.
 
-#### 16...
+#### 3025... or 16...
 
 In the following year, the Empire continued to expand its territory through colonization and diplomacy. The government established new colonies on uninhabited planets, and established trade agreements with other civilizations. The empire's economy grew steadily as a result of this expansion, and the standard of living for citizens improved.
 
 However, this new era of expansion and prosperity has also brought new challenges for the Empire. As more and more systems join the Empire, the central government must adapt to accommodate the diverse needs and cultures of these new subjects. Additionally, the Empire must also contend with the threat of rogue factions and bandits who seek to exploit the new systems for their own gain.
 
-#### 17...
+#### 3026... or 17...
 
 However, as the empire expanded, it also faced new challenges. The government struggled to maintain control over the new colonies and there were frequent uprisings and rebellions. Additionally, the empire's rapid expansion strained its resources and the government had to implement strict rationing policies to avoid shortages.
 
-#### 18...
+#### 3027... or 18...
 
 Despite these challenges, the Empire managed to maintain stability and continue to grow and remains strong and continues to adapt to the ever-changing landscape of the **Asha galaxy**. Under the guidance of the Imperial navy, the Empire's reach continues to expand, and the people enjoy peace and prosperity. The government implemented policies aimed at improving the lives of citizens and addressing the concerns of the colonies. The empire's military also continued to expand, and it became one of the most powerful in the galaxy.
 
-#### 19...
+#### 3028... or 19...
 
 Asha empire faced new challenges as new civilizations and empires emerged in the galaxy. The government had to adapt to these new challenges and maintain the empire.
 
 The empire, under the leadership of **Emperor Walter**, had become a dominant force in **the Asha galaxy**, but the cost of maintaining control over the entire galaxy was becoming increasingly costly. The emperor decided to focus on consolidating and solidifying control over the systems that were already under the empire's rule, while allowing new colonies and settlements to flourish in the systems that were not considered a threat to the empire.
 
-#### 20...
+#### 3029... or 20...
 
 Emperor **Walter Friessner** died in the year 20 at the age of 92. His daughter **Naina Friessner** took the throne as queen.
 
 Long live **Queen Naina**...
 
-#### 21...
+#### 3030... or 21...
 
 In the year 21, a powerful rebellion emerged in the outer rim of the empire. The rebels, led by a charismatic leader named **Marcus Fulker**, sought to overthrow Queen Naina and establish a democratic government. The rebellion quickly gained momentum and threatened to destabilize the empire.
 
-#### 22...
+#### 3031... or 22...
 
 Queen Naina responded to the rebellion by deploying the imperial navy to crush the uprising. The war was brutal and lasted for several years. The rebels were ultimately defeated and Marcus was captured and executed. However, the cost of the war was high and the empire was left weakened.
 
-#### 26...
+#### 3035... or 26...
 
 In the aftermath of the rebellion, Queen Naina implemented a series of reforms aimed at addressing the issues that had led to the uprising. She established a more representative government and implemented policies to improve the lives of the people in the outer rim. These efforts helped to restore stability to the empire and prevent further rebellions.
 
-#### 30...
+#### 3034... or 30...
 
 With the empire stabilized, Queen Naina was able to focus on expanding the empire's territory and increasing its power. She sent explorers to new star systems in search of new resources and established colonies on new planets to support the growing population. The imperial navy was also strengthened, and new ships and weapons were developed to protect the empire's borders.
