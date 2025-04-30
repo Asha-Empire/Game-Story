@@ -546,6 +546,18 @@ To guard the new order, Friessner unveiled **the Tenebris Corps**—an elite leg
 
 Most governors, exhausted by constant restructurings, bent the knee. A handful stormed out in protest; their systems would later kindle the **Fulker Rebellion** (Imperial Year 21). For the moment, however, **Emperor Walter I** stood unchallenged, and humanity’s chronicle in the stars began anew: **3009 = Imperial Year 0**, the dawn of the Asha Empire.
 
+### 3010... or 1...
+
+*Art as Resistance in Nebula Nook City* - In the uneasy calm that follows the Legion’s recapture of Saiantum, city clerks commission local artisan **Orion Castell**—nick-named the **“Stellar Sculptor”**—to carve a series of planetary and stellar monuments for each district.  
+* Over twelve moons he installs seventeen sculptures: basalt Mars, copper-veined Mercury, a levitating Saian-crystal ringed Saturn and a thirty-metre spiral titled **“Helios Hymn.”**  
+* Residents dub the installation the **Sky-Road**, saying it lets them “walk the solar system without leaving the Cove.”
+
+### 3011... or 2...
+
+An Imperial prefect dispatched to measure post-revolt morale finds vandalism and gang violence down 38 % in zones nearest Castell works.  The dossier—codenamed *Lights in the Gulf*—quietly circulates among frontier governors as evidence that **cultural patronage can pacify where sheer force falters**.
+
+*Side note:* rebel graffiti begins depicting Castell’s Saturn as a hidden safe-house symbol, proving art can also seed subtle dissent.
+
 ### 3019... or 10...
 
 At sixteen, Cadet-Captain Naina leads a flanking platoon during the **Bastion Falls** raid.  Her emotionless comms traffic earns the callsign “Cold Warrior.”
