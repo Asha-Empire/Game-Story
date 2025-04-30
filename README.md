@@ -385,10 +385,32 @@ But diplomacy did not end bloodshed. Fringe factions—small pirate clans, holdo
 Within a single standard year the Dominion stretched across eight systems and more than forty inhabited stations. Chroniclers later observed that **2962** marked the moment Walter shifted from brilliant tactician to visionary state-builder: by binding survival, prosperity, and ambition to a common banner, he transformed disparate survivors of a shattered sector into **a disciplined, expansion-hungry polity**—one poised to cast its shadow far beyond the green fields of Novus.
 
 ### 2972...
-The empire faced a major rebellion on the planet of **Arcturus**, located in the **Cygnus system**. The inhabitants of **Arcturus**, known as the **Arcturans**, had grown discontent with the empire's rule and had begun to organize a resistance movement. Emperor Walter was able to suppress the rebellion with the help of his loyal troops, but it resulted in heavy losses on both sides.
+
+Arcturus, an ocean-world fringed by cliff-cities carved into black basalt mesas, had long been prized for its **gravitanium ore** — the isotope that hardened Dominion hull-plates. Yet prosperity bred resentment: quotas rose every quarter, Arcturan assemblies lost their say in the Conclave, and requisition squads confiscated ever larger shares of the planet’s legendary sea-grain. By mid-2972 a clandestine council calling itself the **Star-Forgers** welded miners, stevedores, and even segments of the planetary militia into a 400-million-strong resistance.  
+
+When the revolt flared, it was unlike the pirate flare-ups Walter Friessner crushed in ’63-’64. **Arcturus possessed shipyards.** Rebel corvettes ambushed Dominion convoys in the Cygnus trade lanes, while orbital rail-guns—converted from loading cranes—pounded the Legions’ first relief wave out of the sky. Friessner flew to Cygnus in person aboard *VDS Thunderheart* and orchestrated a grim, three-phase counter-offensive:  
+
+1. **Nerve the Orbitals** – Covert sappers infiltrated the cliff-foundries, swapping routine thruster-fuel for volatile Saian slush; at dawn on Day 28 a synchronized burst of ‘accidents’ gutted half the rebel batteries.  
+2. **Cut the Tides** – QPN spoof-packets convinced rebel field marshals that a Dominion fleet was mass-dropping on the far side of the planet. Arcturans redeployed, only to find the “invasion” a ghost; meanwhile Friessner’s real strike-groups executed precision insertions behind thinned lines.  
+3. **Break the Heart** – In the infamous **Siege of Spire City**, Legion boarding columns fought room-to-room up the 30-kilometre elevator core that anchored Arcturus’s primary space elevator. Losses were catastrophic on both sides, but the capture of the core severed rebel logistics and morale collapsed within forty-one hours.  
+
+Arcturus surrendered after **117 days**; half its orbital platforms drifted as molten slag, and Dominion casualty lists topped 90 000. Friessner ordered a week-long silence beacon over the Cygnus star to honour the dead—friend and foe alike—and then installed a **Reconstruction Council** of moderate Arcturans rather than an outside governor, signalling that rebellion would be punished, but grievances heard.
 
 ### 2975...
-The empire faced an unexpected attack from the planet of **Nandromeda**. The Nandromedans, who were known for their advanced technology and powerful warships, launched a surprise assault on the empire's stronghold in the Viridis system. The empire was caught off guard, but Emperor Walter was able to rally his forces and repel the Nandromedan invasion.
+
+Barely three standard years later, Viridis itself felt the blade. The **Nandromedans**—a void-born culture of ice-moon shipwrights notorious for planting stealth beacons inside passing meteoroids—launched **Operation Ghost-Lantern**, a carrier strike aimed straight at Novus. Emerging from micro-jump just beyond the planet’s exosphere, six leviathan “moth-reef” carriers disgorged drone-bombers that blotted out the southern sky. The Skyward Fleet was caught refitting above Polaris and could not arrive for two days.  
+
+Friessner turned the weakness into a lure. He ordered every surface battery to simulate power failure and broadcast evacuation panics on public channels. Believing Novus undefended, the Nandromedans plunged lower—into the planet’s gravity well and directly over the equatorial magnetic ridge. At that instant **Project Stormglass**—a web of classified flak towers keyed to the ridge—revealed itself. Thousands of Solanium-cored flak bursts created a kilometer-deep ablative “wall” that shredded bomber wings in minutes.  
+
+When the startled carriers tried to climb, their hulls fell victim to Friessner’s second surprise: **gravity-well traps**. Dominion engineers had seeded the ridge with micro-singularity mines; each mine’s brief lensing effect robbed the ascending carriers of velocity while leaving smaller Legion interceptors unhindered. Over the next eight hours the vaunted Nandromedan armada was pounded into burning wreckage that rained across Novus’s southern oceans. Only a single carrier limped away, engines sparking.  
+
+Strategically, the **Battle of Novus Orbit** accomplished three things:  
+
+* It preserved the Dominion heartworld without a single civilian fatality.  
+* It showcased Friessner’s transition from aggressive conqueror to **defensive mastermind**, willing to weaponize planetary physics instead of manpower.  
+* It forced the humbled Nandromedan clans to sign the **Viridis-Nandro Accord**, exchanging their carrier technology for agricultural aid, thereby folding another potential rival into Friessner’s widening sphere of influence.  
+
+The twin crises of 2972 and 2975 bloodied the Dominion but left it **hardened, paranoid, and technically ascendant**—traits that would define its relentless march toward full imperial power in the decade to come.
 
 ### 2980...
 The empire faced a major threat from the planet of **Gamma Cephei**, located in the **Cepheus system**. The Cepheans were known for their powerful psychic abilities and had formed a powerful psychic army. Emperor Walter was able to defeat the Cepheans with the help of a special psychic-neutralizing weapon.
