@@ -413,24 +413,61 @@ Strategically, the **Battle of Novus Orbit** accomplished three things:
 The twin crises of 2972 and 2975 bloodied the Dominion but left it **hardened, paranoid, and technically ascendant**—traits that would define its relentless march toward full imperial power in the decade to come.
 
 ### 2980...
-The empire faced a major threat from the planet of **Gamma Cephei**, located in the **Cepheus system**. The Cepheans were known for their powerful psychic abilities and had formed a powerful psychic army. Emperor Walter was able to defeat the Cepheans with the help of a special psychic-neutralizing weapon.
+
+**Gamma Cephei** was the spiritual seat of the **Cephean Psy-Legions**, an elite order whose psionic beacons could scramble enemy command nets from orbit. When the Legions began raiding Dominion caravans, **Warlord Friessner** struck first: he fitted a task-force of Novus destroyers with experimental **Saian-lattice EM pulsers**. At 05:19 planetary time, the pulsers detonated in low orbit, flash-blanking every psionic relay on Cephei. Cut off from their gestalt network, the Psy-Legions broke within hours. Friessner accepted their surrender on the basalt steps of the Beacon Citadel, seizing both *selenite crystal* mines and thousands of psionic scholars whose talents he immediately redirected toward Dominion cryptography.
+
+### 2983...
+
+**The Mosaic Reforms**  
+
+With four conquered systems under one banner, Friessner issued the **Mosaic Reforms** to bind disparate populations:  
+
+* **Unified Civic Code** – Local laws could remain, but capital crimes and commercial contracts now answered to a single Dominion statute.  
+* **Tri-Tithe System** – Every planet paid taxes in *grain, Solanium, or Saian-energy*, letting agrarian and industrial worlds contribute fairly.  
+* **Public Works Corps** – Veterans were offered land grants to build levees, hospitals, and orbital elevators, turning soldiers into settlers and quelling jobless unrest.  
+
+The reforms proved popular enough that three neutral micro-polities petitioned to join the Dominion voluntarily, eager for the trade protections the unified code provided. 
 
 ### 2990...
-The empire faced a major threat from the planet of **Altauri**. The **Altaurians**, who were known for their advanced technology and powerful warships, had formed a powerful alliance with other planets in the galaxy. Emperor Walter was able to defeat the Altaurians with the help of a special weapon that could destroy entire planets.
+
+A coalition led by **House Altauri** fielded a dreadnought line equal in tonnage to the Skyward Fleet. Facing stalemate, Friessner sanctioned **Project Anvil**—a “planet-cracker” Solanium-tipped kinetic lance intended as deterrent only. When negotiations collapsed, the lance was test-fired on Altauri’s uninhabited moon ***Lathis***, splitting the body in two and glassing its surface. Shockwaves rattled every seismograph from Cygnus to Patrius. Confronted with proof that Friessner could shatter a world without nuclear fallout, Altauri surrendered within forty-eight hours. The demonstration ended large-scale resistance but ignited moral debates that would haunt the Dominion for decades.  
+
+### 2996...
+
+**Founding of the Archivum Saianum**  
+
+Recognising that raw conquest could not fuel expansion forever, Friessner chartered the **Archivum Saianum** on Novus: a free-city laboratory where Cephean psionicists, Nandromedan engineers, and Arcturan ore-chemists exchanged ideas under Legion guard. The Archivum produced two breakthroughs in its first year—*adaptive warp-bubble regulators* (cutting fuel use by 12 %) and *Saian supercapacitors* (tripling rail-gun burst rate)—cementing Novus as the intellectual as well as political core of the Dominion.
 
 ### 3000...
 
-In the following years, **Emperor Walter** continued to expand the own empire through military conquest and diplomacy. He implemented policies aimed at increasing the power of the central government and suppressing dissent. He also established a powerful intelligence agency to root out potential threats to his rule.
+On the eve of the new century, Friessner reorganised the Dominion into the **Provisional Galactic Directorate (PGD)**. Key points:  
+
+* **Sector Prefectures** replaced military governorships, each led by a civilian prefect reporting to Novus.  
+* The **Dominion Exchange Credit** was re-minted as the **Directorate Mark**, convertible only through state banks—a move that crushed the last black-market Solanium cartels.  
+* A **three-layer warp corridor grid** began construction, promising fixed-schedule travel between Viridis, Cygnus, and Patrius inside ten days.  
+
+Many hailed the PGD as the birth of a true federation; critics saw it as Friessner’s stepping stone to monarchy. 
+
+### 3002...
+
+A fungal blight on Novus wheat triggered food shortages in outer prefectures. Riots flared on Tierra and Reliqua, where citizens blamed Novus for hoarding clean grain. Friessner dispatched emergency convoys—but also authorised **Project Sapphire**, seeding the blight-resistant *S-428* strain engineered at the Archivum. Within six months harvests rebounded, and rebels who had expected a crackdown instead watched Dominion scientists hand out seed packets. The episode elevated Friessner’s image from conqueror to caretaker and blunted separatist rhetoric. 
 
 ### 3005...
 
-Despite these measures, the empire faced many challenges, including economic instability and internal conflicts. Nevertheless, the empire managed to survive and continue to expand its territory until 3009, when Emperor Walter established control over the entire Asha galaxy.
+Trade boomed, but so did **hyper-inflation** in warp maintenance and Saian mining. Frontier prefectures suffered **“echo shortages”**—supply lags caused by warp-corridor refits and piracy. Friessner responded with the **Shield-Coin Act**, issuing parametric smart tokens that doubled as tamper-proof freight manifests. Piracy profits crashed overnight because stolen cargo could no longer be fenced without the matching token. The act stabilised prices but required deep Dominion surveillance of commerce, planting early seeds of the security state that Queen Naina would later inherit.  
 
 ### 3009... or 0...
 
-After a prolonged conflict, **Walter Friessner** declared himself the Emperor of the **Asha galaxy** and began a campaign of conquest, successfully establishing the **Asha Empire**. Initially, **Emperor Walter** intended to establish a democratic government, but as rebellions and betrayals arose, he adopted a more authoritarian rule. He also introduced the **Asha Empire Credit (___AEC___)** as the primary currency of the empire, replacing the USSS dollar.
+After a decade of relative calm, **Walter Friessner** summoned the Conclave of Governors to **Fort Aurelius**. Citing mounting external threats, lingering factional friction, and the cautionary tales of ancient Terran empires, he **dissolved the Provisional Galactic Directorate** and crowned himself **Emperor of Asha**.  
 
-The capital of the Asha Empire was established by Emperor Walter on the planet **Novus** in the **Viridis system**.
+On **Ascension Day** he proclaimed that humanity must “slip the last chains of Sol” and stand as a single polity before whatever intelligences might lurk beyond the Asha Galaxy. Two symbolic acts sealed the break:
+
+1. **Calendar Reset** – The Directorate chronometer and the old Terran reckoning were abandoned. The new imperial ledger opened at **Imperial Year 0**, marking a final psychological severance from the Solar System’s legacy.  
+2. **Currency Consolidation** – The **Asha Empire Credit (__AEC__)** would replace **all** circulating tender: the Directorate Mark, the earlier Dominion Exchange Credit—and even the dwindling cache of **USSS dollars** that some frontier markets still hoarded as hard coin. Citizens were given one standard year to exchange their notes at state banks; after that grace period, unconverted bills would be worthless curios. The AEC’s value was anchored to Saian-energy reserves held in Novus vaults, “a currency no foreign power can devalue,” the emperor declared.
+
+To guard the new order, Friessner unveiled **the Tenebris Corps**—an elite legion drawn proportionately from every prefecture and sworn solely to the Throne, so no single world could marshal a palace coup.
+
+Most governors, exhausted by constant restructurings, bent the knee. A handful stormed out in protest; their systems would later kindle the **Fulker Rebellion** (Imperial Year 21). For the moment, however, **Emperor Walter I** stood unchallenged, and humanity’s chronicle in the stars began anew: **3009 = Imperial Year 0**, the dawn of the Asha Empire.
 
 ### 3023... or 14...
 
