@@ -558,6 +558,15 @@ An Imperial prefect dispatched to measure post-revolt morale finds vandalism and
 
 *Side note:* rebel graffiti begins depicting Castell’s Saturn as a hidden safe-house symbol, proving art can also seed subtle dissent.
 
+### 3012... or 3...
+
+*Edict 45-A “Culture Credits” — Walter’s Final Domestic Gambit* - Armed with the *Lights in the Gulf* data (38 % drop in vandalism near Sky-Road pieces), **Emperor Walter I** convinces the Treasury Board to earmark **2 % of each prefecture’s Saian-tax remittance** for locally commissioned art, festivals and “civic beacons.”  
+* Court speech sound-bite: **“Blades hold ground; stories hold hearts.”**  
+* Pilot prefectures report a 14 % fall in petty crime and a 9 % rise in market turnover within two quarters.  
+* Crown-Princess **Naina** sits on the audit panel, absorbing lessons that will later inform her Frontier Reform Edicts.  
+
+Historians mark Edict 45-A as Walter’s last notable policy before his death in IE 20, and the philosophical bridge Naina inherits between pure military rule and soft-power legitimacy.
+
 ### 3019... or 10...
 
 At sixteen, Cadet-Captain Naina leads a flanking platoon during the **Bastion Falls** raid.  Her emotionless comms traffic earns the callsign “Cold Warrior.”
