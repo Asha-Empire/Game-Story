@@ -292,6 +292,10 @@ In 2770, the **Quantum Particle Network (QPN)** was invented and communication b
 
 Quantum Particle Network (QPN) is a technology that uses quantum particles to transmit information faster than the speed of light. This technology utilizes properties of quantum particles such as superposition and entanglement to transmit data over large distances almost instantaneously. This allows for communication between colonies in different star systems, overcoming the limitation of traditional communication methods that were limited to the speed of light. QPN works are based on principles of quantum physics and information theory, such as quantum teleportation or quantum key distribution.
 
+#### 2771...
+
+In 2771, humanity continued to colonize new systems in the **Asha galaxy**, including the planet **Reliqua** in the **Aethelgard system**, **Fracture Point** and **Abyssal Maw** in the **Rift Valley system**, and **Helios** in the **Oracle's Eye system**.
+
 #### 2774...
 In 2774, scientists in the Vita Nova colonies developed a breakthrough technology for creating wormholes (**Micro–Einstein-Rosen Stabiliser**). This technology allows for instantaneous travel from one point in space to another, eliminating the need for long and dangerous interstellar journeys. However, the energy requirements to create these wormholes are enormous, and it is not currently possible to create stable, long-lasting wormholes. This limits the distance that can be traveled through a single wormhole to a few light-years. Vita Nova physicists pin a wormhole throat for **≈ 30 minutes**, safe for freight shuttles up to 5 kt. Range remains limited to **3–5 ly**; any longer collapses the mouth before transit can complete.
 
