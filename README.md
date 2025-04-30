@@ -567,6 +567,22 @@ An Imperial prefect dispatched to measure post-revolt morale finds vandalism and
 
 Historians mark Edict 45-A as Walter’s last notable policy before his death in IE 20, and the philosophical bridge Naina inherits between pure military rule and soft-power legitimacy.
 
+### 3014... or 5...
+
+**Aria Arrives in Nova City** - While Nebula Nook rebuilds on Saiantum’s eastern coast, the island-metropolis **Nova City**—famed for its lilac fog and Saian-stone power grid—launches a talent-visa lottery to attract off-world engineers and social entrepreneurs.  
+* The first winner is **Aria Telemis**, a 22-year-old systems architect from Caladan.  
+* She settles in the chaotic **Lower City**, organising street-cleanups and mesh-net workshops for orphan tech-scavs.
+
+### 3015... or 6...
+
+Using seed money from Walter’s **Edict 45-A Culture Credits**, Aria convinces the city senate and local guilds to co-fund Nova City’s **first annual festival**—a week-long expo of Saian-powered art, zero-g dance and deep-ocean drone races.  
+* Attendance tops 1.2 million; trade metrics show a 26 % uptick in Lower–Upper inter-district commerce.  
+* Imperial Prefect Tovik cites the festival as “proof that art grants pay security dividends,” forwarding the report to Crown-Princess Naina.
+
+### 3016... or 7...
+
+**Nova City Becomes Saiantum’s Premier Trade Nexus** - Spurred by festival publicity, three inter-sector shipping houses relocate their Saian-ore futures desks to Nova City, overtaking Nebula Nook’s volume by mid-year. The senate awards Aria the Civic Beacon Medal; holo-broadcasts dub her the **“Aria of the Lilac Isles.”**  
+
 ### 3019... or 10...
 
 At sixteen, Cadet-Captain Naina leads a flanking platoon during the **Bastion Falls** raid.  Her emotionless comms traffic earns the callsign “Cold Warrior.”
