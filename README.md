@@ -4,15 +4,19 @@ The Millennial Roadmap is a timeline of events leading up to the year 3039, the 
 
 ## Path to the Asha Empire
 
-#### 2029...
+#### 2031...
 
-In 2029, the first moon outpost or **Luna Base** was established. Different companies from the UK, EU, USA and China started mining on the Moon.
+In 2031, the first moon outpost or **Luna Base** was established. Different companies from the UK, EU, USA and China started mining on the Moon.
 
 #### 2036...
 
 The first **Fusion Reactor** started to be built on Moon to use the **H<sub>3</sub>** resources found on the moon.
 
 Humanity established its first colony on **Mars** in 2036. For the first time outside of Earth, they truly settled another planet. Hundreds of scientists from different branches went to Mars to research and work. Despite the presence of fossils and life remains from millions of years ago on Mars, unfortunately, despite all the research, even single-celled life has not been found.
+
+#### 2039...
+
+The Global Space Alliance (GSA) was formally established by the UK, EU, USA, Japan, Mexico, India, Russia, Brazil, and China. This coalition aimed to unify resources, share technological advancements, and ensure peaceful collaboration in space exploration and colonization efforts.
 
 #### 2041...
 
@@ -21,6 +25,10 @@ Different companies from the UK, EU, USA, Japan, Mexico, India, Russia, Brazil a
 #### 2043...
 
 The first Nuclear Power Plant with a fission reactor began operation on Mars. With the elimination of the energy shortage, more industrial facilities and settlements on Mars accelerated to develop. The **New Eden site** was set up in Mars' Elysium quadrangle as the most popular location. This site was built using advanced technologies such as 3D printing and Solanium construction materials.
+
+#### 2044...
+
+As the GSA’s collaborative efforts deepened, Earth grew increasingly peaceful. Conflicts in the Middle East dwindled, and the alliance expanded to include Argentina, Egypt, Chile, Türkiye, Iran, and Pakistan. Together, these nations redirected their focus toward a shared future in space, fostering unprecedented global unity.
 
 #### 2045...
 
