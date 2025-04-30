@@ -246,9 +246,29 @@ In the first few decades only the best scientists in the solar system toghether 
 
 Scientists have determined that the reason why this new system and the galaxy has not been identified before, because it is not in the observable universe that can be seen from the solar system and they have determined its distance to solar system is approximately 75 billion light years. 
 
-Humanity finally discovers that there is extraterrestrial life, but they have not encountered a creature as intelligent as humans. They found a habitable planet with different kinds of animals and plants. They found a new kind of energy source stone on this planet which they called **Saian** that is similar to Amethyst stone. They named this new planet as **Saiantum**.
+Humanity finally discovers that there is extraterrestrial life, but they have not encountered a creature as intelligent as humans. They found a habitable planet with different kinds of animals and plants. 
+
+USSS science detachment lands on Saiantum’s south-western littoral.  The planet’s lilac skies, wine-dark jungles and an **amethyst-tinted ocean** leave the team speechless; drone sonar soon maps a crystalline field on the abyssal plain. They found a new kind of energy source stone on this planet which they called **Saian** that is similar to Amethyst stone. They named this new planet as **Saiantum**.
 
 Scientists named this new system as **Vita Nova** for hoping to new life and its galaxy as **Asha** because they thought this new galaxy is the symbol of truth and existence.
+
+### 2581...
+
+Marine biologist **Dr Ayana Feldspar** retrieves a self-luminous shard that registers anomalous vacuum-energy pockets and a consistent 387 nm “Saian glow.”  When a steel bolt is placed atop the shard during shipboard testing, the bolt *floats* six centimetres for thirteen minutes—proof of a naturally occurring **levito-shear field**.
+
+Back at the Vita Nova station, engineer **Liu Marek** fashions a sandal-sized plate from refined crystal.  Stepping on it, Marek rises two metres and hovers for ninety seconds.  The broadcast footage electrifies the colonists and cements the name **“Saian Stone.”**
+
+### 2582...
+
+Fearing gold-rush chaos, the USSS navy imposes the **Saiantum Mining Charter**:  
+* deep-core boreholes only (reef strip-mining banned),  
+* annual export cap of 10 000 t,  
+* ten-percent tithe of refined crystal earmarked for public research.
+
+### 2590...
+
+* **Lev-Pallet:** a 40-tonne cargo crate hovers on a plate no bigger than a dinner tray—instantly adopted in Saiantum’s ports.  
+* **Saian Micro-Supercapacitors:** physicists crack the stone’s void lattice to store megajoule bursts, a discovery that will eventually power Slipstream and Warp prototypes.
 
 ### 2592...
 
