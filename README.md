@@ -514,7 +514,7 @@ Trade boomed, but so did **hyper-inflation** in warp maintenance and Saian minin
 
 ### 3007...
 
-Over two centuries after Saiantum’s Mining Charter, its eastern littoral hosts the neon-shrouded freeport **Nebula Nook City**—equal parts refit yard, contraband souk and pirate refuge.  
+*Birth of a folk-hero named Mara* - Over two centuries after Saiantum’s Mining Charter, its eastern littoral hosts the neon-shrouded freeport **Nebula Nook City**—equal parts refit yard, contraband souk and pirate refuge.  
 * A cyber-smuggler called **Mara** barters military firmware on its back-alleys.  
 * She stumbles into a cloaked cell planning to eject the palace tax-men and declare Saiantum neutral.  
 * On 18·11 3007 the rebels breach the Imperial garrison’s Q-relay; Mara’s bionic eye overclocks the console, dropping city-wide shields and handing victory to the insurgents.  
@@ -527,7 +527,7 @@ Walter, raises **Naina** and **Nicky** inside the palace war college. Both girls
 * **Naina** shows a gift for operational maths;  
 * **Nicky** gravitates to code-breaking and foreign-service languages.
 
-Emperor Walter dispatches the **Nova Legion** with strict rules: reclaim the quarries but minimise civilian deaths lest Saian supply chains collapse.  
+Counter-Strike Against Mara - Emperor Walter dispatches the **Nova Legion** with strict rules: reclaim the quarries but minimise civilian deaths lest Saian supply chains collapse.  
 * After a two-week urban siege, Legion marines retake the relay tower; Mara escapes into the sub-ocean mag-tunnels.  
 * Walter classifies the after-action file *Saiantum Protocol*, citing it at court as proof that Shield-Coin surveillance needs “human sensors, not just tokens.”  
 
