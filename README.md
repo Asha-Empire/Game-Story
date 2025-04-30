@@ -459,7 +459,20 @@ The reforms proved popular enough that three neutral micro-polities petitioned t
 
 ### 2990...
 
-A coalition led by **House Altauri** fielded a dreadnought line equal in tonnage to the Skyward Fleet. Facing stalemate, Friessner sanctioned **Project Anvil**—a “planet-cracker” Solanium-tipped kinetic lance intended as deterrent only. When negotiations collapsed, the lance was test-fired on Altauri’s uninhabited moon ***Lathis***, splitting the body in two and glassing its surface. Shockwaves rattled every seismograph from Cygnus to Patrius. Confronted with proof that Friessner could shatter a world without nuclear fallout, Altauri surrendered within forty-eight hours. The demonstration ended large-scale resistance but ignited moral debates that would haunt the Dominion for decades.  
+House **Altauri** welded a rim-wide alliance and fielded dreadnought tonnage equal to the Skyward Fleet.  Fearing invasion, **Emperor Walter I** authorised **Project Ω**—a Saian-driven kinetic lance nick-named the **Omega Destroyer**.  
+* On **25·08 2990** the weapon was test-fired at the uninhabited Altaurian moon **Lathis**, pulverising the body and illuminating the night-side of the parent world for six minutes.  
+* Shock and debris fallout triggered instant capitulation; the war ended in forty-eight hours.  
+
+The victory secured the Empire’s hegemony but ignited galaxy-wide moral outrage: was total planetary annihilation an acceptable deterrent?
+
+### 2992...
+
+Haunted by the loss of life and ecological ruin around Altauri Prime, Walter ordered the Omega core entombed in a **triple-blind vault** beneath Fort Aurelius. 
+
+* Only a unanimous vote of the **Imperial Security Triumvirate** can authorise redeployment.  
+* The *Altaurian Concord* obliges the Throne to use the weapon **only** against existential threats.  
+
+Opponents call the vault “an apocalypse on a leash”; loyalists hail it as the shield that keeps rival blocs in check.  Either way, **Omega Deterrence** becomes a cornerstone of imperial strategy—and a shadow that will loom over every future conflict.
 
 ### 2996...
 
