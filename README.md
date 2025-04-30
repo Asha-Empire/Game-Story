@@ -490,13 +490,33 @@ On the eve of the new century, Friessner reorganised the Dominion into the **Pro
 
 Many hailed the PGD as the birth of a true federation; critics saw it as Friessner’s stepping stone to monarchy. 
 
+### 3001...
+
+After an evening strategy council, Emperor **Walter Friessner** crosses paths in the Novus palace gardens with **General Maria “Mia” Schulze**, daughter of a German-colonial family and decorated field officer.  Star-watching turns into midnight war-gamers’ talk, and the two become inseparable within weeks.
+
 ### 3002...
 
 A fungal blight on Novus wheat triggered food shortages in outer prefectures. Riots flared on Tierra and Reliqua, where citizens blamed Novus for hoarding clean grain. Friessner dispatched emergency convoys—but also authorised **Project Sapphire**, seeding the blight-resistant *S-428* strain engineered at the Archivum. Within six months harvests rebounded, and rebels who had expected a crackdown instead watched Dominion scientists hand out seed packets. The episode elevated Friessner’s image from conqueror to caretaker and blunted separatist rhetoric. 
 
+Meanwhile Walter and Mia marry beneath Saian-lit arbor arches in the South Garden of Fort Aurelius. Broadcast to every prefecture, the ceremony becomes a rare empire-wide morale surge during the post-Altaurian reconstruction years.
+
+### 3003...
+
+At the Friessner family farmstead, Mia delivers a healthy daughter, **Naina Adelheid Friessner**.  Sensors record an extraordinary neonatal heart-rate variability, later linked to heightened combat stress tolerance.
+
+### 3004...
+
+While pregnant with a second child, Mia leads an anti-pirate sweep on Somaia (Gamma Cephei).  An ambush kills her and fatally wounds the unborn baby—yet an emergency Saian exo-incubator saves the foetus. Eight months later the child is born on Novus and named **Nicoletta “Nicky” Friessner**. Walter commissions the **Schulze Memorial Spire** overlooking Novus City.
+
 ### 3005...
 
 Trade boomed, but so did **hyper-inflation** in warp maintenance and Saian mining. Frontier prefectures suffered **“echo shortages”**—supply lags caused by warp-corridor refits and piracy. Friessner responded with the **Shield-Coin Act**, issuing parametric smart tokens that doubled as tamper-proof freight manifests. Piracy profits crashed overnight because stolen cargo could no longer be fenced without the matching token. The act stabilised prices but required deep Dominion surveillance of commerce, planting early seeds of the security state that Queen Naina would later inherit.  
+
+### 3008...
+
+Walter, raises **Naina** and **Nicky** inside the palace war college. Both girls study diplomacy, Saian physics and live-fire tactics alongside cadets:
+* **Naina** shows a gift for operational maths;  
+* **Nicky** gravitates to code-breaking and foreign-service languages.
 
 ### 3009... or 0...
 
@@ -511,11 +531,17 @@ To guard the new order, Friessner unveiled **the Tenebris Corps**—an elite leg
 
 Most governors, exhausted by constant restructurings, bent the knee. A handful stormed out in protest; their systems would later kindle the **Fulker Rebellion** (Imperial Year 21). For the moment, however, **Emperor Walter I** stood unchallenged, and humanity’s chronicle in the stars began anew: **3009 = Imperial Year 0**, the dawn of the Asha Empire.
 
+### 3019... or 10...
+
+At sixteen, Cadet-Captain Naina leads a flanking platoon during the **Bastion Falls** raid.  Her emotionless comms traffic earns the callsign “Cold Warrior.”
+
 ### 3023... or 14...
 
 Years have passed and it is now 3023, but **Emperor Walter Friessner** declared the **foundation of the ___Asha Empire___ as the reference point for the calendar**, so the current year is now referred to as 14.
 
 The Imperial navy forces of the Asha Empire have taken control of all the settled star systems, planets and stations in the Asha galaxy. However, humans continue to explore and settle in new systems and planets. As long as these new settlements do not pose a threat to the empire, the imperial navy has chosen not to exert control over them, as the cost of doing so is deemed too high. Instead, the inhabitants of these new systems are allowed to live freely, as long as they do not challenge the authority of the empire.
+
+Promoted to **Legate-General**, Naina routs three Sanaturnian pirate clans in a single-orbital night, securing Novus grain lanes. Analysts hail her as Walter’s true military heir.
 
 ### 3024... or 15...
 This decision has proven to be a wise one, as many of these new systems have begun to flourish under the autonomy and self-governance. Trade and commerce have flourished between these systems and the Empire, and many have even begun to pay tribute to the Empire in exchange for protection and support.
@@ -545,6 +571,8 @@ The empire, under the leadership of **Emperor Walter**, had become a dominant fo
 Emperor **Walter Friessner** died in the year 20 at the age of 92. His daughter **Naina Friessner** took the throne as queen.
 
 Long live **Queen Naina**...
+
+Emperor Walter dies of cardiac arrest aboard *VDS Thunderheart*. Twenty-six-year-old **Naina** is crowned the second sovereign of Asha, while her sister **Nicky** enters the Diplomatic Corps. Naina’s first edicts: freeze frontier taxes, purge corrupt prefects and mobilise famine relief fleets.
 
 ### 3030... or 21...
 
