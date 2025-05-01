@@ -589,7 +589,7 @@ At sixteen, Cadet-Captain Naina leads a flanking platoon during the **Bastion Fa
 
 ### 3023... or 14...
 
-Years have passed and it is now 3023, but **Emperor Walter Friessner** declared the **foundation of the ___Asha Empire___ as the reference point for the calendar**, so the current year is now referred to as 14.
+Years have passed and it is now 3023, but **Emperor Walter Friessner** declared the **foundation of the _Asha Empire_ as the reference point for the calendar**, so the current year is now referred to as 14.
 
 The Imperial navy forces of the Asha Empire have taken control of all the settled star systems, planets and stations in the Asha galaxy. However, humans continue to explore and settle in new systems and planets. As long as these new settlements do not pose a threat to the empire, the imperial navy has chosen not to exert control over them, as the cost of doing so is deemed too high. Instead, the inhabitants of these new systems are allowed to live freely, as long as they do not challenge the authority of the empire.
 
